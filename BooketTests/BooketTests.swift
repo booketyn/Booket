@@ -2,13 +2,12 @@
 //  BooketTests.swift
 //  BooketTests
 //
-//  Created by Masahiro on 2019/08/12.
-//  Copyright © 2019 Booket. All rights reserved.
+//  Created by 西村 友佑 on 2019/08/07.
+//  Copyright © 2019年 西村 友佑. All rights reserved.
 //
 
 import XCTest
 @testable import Booket
-
 
 class BooketTests: XCTestCase {
     

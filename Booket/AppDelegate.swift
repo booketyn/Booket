@@ -2,11 +2,30 @@
 //  AppDelegate.swift
 //  Booket
 //
-//  Created by Masahiro on 2019/08/12.
-//  Copyright © 2019 Booket. All rights reserved.
+//  Created by 西村 友佑 on 2019/08/07.
+//  Copyright © 2019年 西村 友佑. All rights reserved.
 //
 
 import UIKit
+
+//class ViewController: UIViewController {
+    /*
+    @IBOutlet weak var svgImageView: UIImageView!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        let svgImage = SVGKImage(named: "sample")
+        svgImage.size = svgImageView.bounds.size
+        svgImageView.image = svgImage.UIImage
+    }
+    
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+    }
+}
+
+*/
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

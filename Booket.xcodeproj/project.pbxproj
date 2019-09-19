@@ -7,802 +7,200 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		101CEAD32320F1750081D9BD /* HomeView.svg in Resources */ = {isa = PBXBuildFile; fileRef = 101CEAD22320F1750081D9BD /* HomeView.svg */; };
-		10529E6323014949008D6242 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10529E6223014949008D6242 /* AppDelegate.swift */; };
-		10529E6523014949008D6242 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10529E6423014949008D6242 /* FirstViewController.swift */; };
-		10529E6723014949008D6242 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10529E6623014949008D6242 /* SecondViewController.swift */; };
-		10529E6A23014949008D6242 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10529E6823014949008D6242 /* Main.storyboard */; };
-		10529E6C23014949008D6242 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10529E6B23014949008D6242 /* Assets.xcassets */; };
-		10529E6F23014949008D6242 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10529E6D23014949008D6242 /* LaunchScreen.storyboard */; };
-		10529E7A23014949008D6242 /* BooketTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10529E7923014949008D6242 /* BooketTests.swift */; };
-		10529E8523014949008D6242 /* BooketUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10529E8423014949008D6242 /* BooketUITests.swift */; };
-		190A2DF59873A97F513F667F /* Pods_BooketUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF89EA9DEF80F11272E5A97A /* Pods_BooketUITests.framework */; };
-		AEDC4DEC7FC60DCB0E37A103 /* Pods_Booket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D36DB789CB3CC05F77A249B /* Pods_Booket.framework */; };
-		FF65A88685FAC0B87154206E /* Pods_BooketTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6BB8B83CFB850F5EE47D277 /* Pods_BooketTests.framework */; };
+		702B5AA222F9DEB3007F83F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702B5AA122F9DEB3007F83F2 /* AppDelegate.swift */; };
+		702B5AA422F9DEB3007F83F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702B5AA322F9DEB3007F83F2 /* ViewController.swift */; };
+		702B5AA722F9DEB3007F83F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 702B5AA522F9DEB3007F83F2 /* Main.storyboard */; };
+		702B5AA922F9DEB3007F83F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 702B5AA822F9DEB3007F83F2 /* Assets.xcassets */; };
+		702B5AAC22F9DEB3007F83F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 702B5AAA22F9DEB3007F83F2 /* LaunchScreen.storyboard */; };
+		702B5AB722F9DEB3007F83F2 /* BooketTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702B5AB622F9DEB3007F83F2 /* BooketTests.swift */; };
+		702B5AC222F9DEB3007F83F2 /* BooketUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702B5AC122F9DEB3007F83F2 /* BooketUITests.swift */; };
+		702C884A2330BADC00C915FB /* SVGKit-3.x in Resources */ = {isa = PBXBuildFile; fileRef = 702C88492330BADB00C915FB /* SVGKit-3.x */; };
+		B813247E267BB83E5F9F07F6 /* libPods-BooketUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 987F5AEC77C43A5AC2E26C66 /* libPods-BooketUITests.a */; };
+		C959DDBCB5190208E145E1C8 /* libPods-BooketTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 498676C7FCE39604924F09C5 /* libPods-BooketTests.a */; };
+		F921127EEDEAFD68750E4D60 /* Pods_Booket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F34BE7678DC5492B62B55C77 /* Pods_Booket.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		10529E7623014949008D6242 /* PBXContainerItemProxy */ = {
+		702B5AB322F9DEB3007F83F2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 10529E5723014949008D6242 /* Project object */;
+			containerPortal = 702B5A9622F9DEB2007F83F2 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 10529E5E23014949008D6242;
+			remoteGlobalIDString = 702B5A9D22F9DEB3007F83F2;
 			remoteInfo = Booket;
 		};
-		10529E8123014949008D6242 /* PBXContainerItemProxy */ = {
+		702B5ABE22F9DEB3007F83F2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 10529E5723014949008D6242 /* Project object */;
+			containerPortal = 702B5A9622F9DEB2007F83F2 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 10529E5E23014949008D6242;
+			remoteGlobalIDString = 702B5A9D22F9DEB3007F83F2;
 			remoteInfo = Booket;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		048365680BA0EA2991D6A52A /* Pods-BooketUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketUITests.debug.xcconfig"; path = "Target Support Files/Pods-BooketUITests/Pods-BooketUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		101CEAD22320F1750081D9BD /* HomeView.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HomeView.svg; sourceTree = "<group>"; };
-		10529E5F23014949008D6242 /* Booket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Booket.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		10529E6223014949008D6242 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		10529E6423014949008D6242 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		10529E6623014949008D6242 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		10529E6923014949008D6242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		10529E6B23014949008D6242 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		10529E6E23014949008D6242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		10529E7023014949008D6242 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		10529E7523014949008D6242 /* BooketTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BooketTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		10529E7923014949008D6242 /* BooketTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooketTests.swift; sourceTree = "<group>"; };
-		10529E7B23014949008D6242 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		10529E8023014949008D6242 /* BooketUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BooketUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		10529E8423014949008D6242 /* BooketUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooketUITests.swift; sourceTree = "<group>"; };
-		10529E8623014949008D6242 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		10EBA71B232B8D490067B1CF /* SVGKit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SVGKit-Prefix.pch"; path = "Pods/SVGKit/SVGKitLibrary/SVGKit-iOS/SVGKit-Prefix.pch"; sourceTree = "<group>"; };
-		10EBA819232B8D6C0067B1CF /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		10EBA81D232B8D6C0067B1CF /* ConverterSVGToCALayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConverterSVGToCALayer.h; sourceTree = "<group>"; };
-		10EBA81E232B8D6C0067B1CF /* SVGRectElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGRectElement.h; sourceTree = "<group>"; };
-		10EBA81F232B8D6C0067B1CF /* SVGTextElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGTextElement.m; sourceTree = "<group>"; };
-		10EBA820232B8D6C0067B1CF /* SVGSwitchElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGSwitchElement.h; sourceTree = "<group>"; };
-		10EBA821232B8D6C0067B1CF /* SVGPolylineElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGPolylineElement.h; sourceTree = "<group>"; };
-		10EBA822232B8D6C0067B1CF /* SVGPolygonElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGPolygonElement.m; sourceTree = "<group>"; };
-		10EBA823232B8D6C0067B1CF /* SVGGradientStop.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGGradientStop.m; sourceTree = "<group>"; };
-		10EBA824232B8D6C0067B1CF /* SVGGroupElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGGroupElement.h; sourceTree = "<group>"; };
-		10EBA825232B8D6C0067B1CF /* SVGImageElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGImageElement.h; sourceTree = "<group>"; };
-		10EBA826232B8D6C0067B1CF /* SVGTitleElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGTitleElement.m; sourceTree = "<group>"; };
-		10EBA827232B8D6C0067B1CF /* BaseClassForAllSVGBasicShapes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseClassForAllSVGBasicShapes.h; sourceTree = "<group>"; };
-		10EBA828232B8D6C0067B1CF /* SVGEllipseElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGEllipseElement.h; sourceTree = "<group>"; };
-		10EBA829232B8D6C0067B1CF /* SVGCircleElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGCircleElement.h; sourceTree = "<group>"; };
-		10EBA82A232B8D6C0067B1CF /* SVGPathElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGPathElement.h; sourceTree = "<group>"; };
-		10EBA82B232B8D6C0067B1CF /* SVGElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGElement.m; sourceTree = "<group>"; };
-		10EBA82C232B8D6C0067B1CF /* SVGGradientElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGGradientElement.m; sourceTree = "<group>"; };
-		10EBA82D232B8D6C0067B1CF /* SVGRadialGradientElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGRadialGradientElement.h; sourceTree = "<group>"; };
-		10EBA82E232B8D6C0067B1CF /* TinySVGTextAreaElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TinySVGTextAreaElement.h; sourceTree = "<group>"; };
-		10EBA82F232B8D6C0067B1CF /* BaseClassForAllSVGBasicShapes_ForSubclasses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseClassForAllSVGBasicShapes_ForSubclasses.h; sourceTree = "<group>"; };
-		10EBA830232B8D6C0067B1CF /* SVGStyleCatcher.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGStyleCatcher.h; sourceTree = "<group>"; };
-		10EBA831232B8D6C0067B1CF /* SVGLinearGradientElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGLinearGradientElement.m; sourceTree = "<group>"; };
-		10EBA832232B8D6C0067B1CF /* SVGLineElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGLineElement.m; sourceTree = "<group>"; };
-		10EBA833232B8D6C0067B1CF /* SVGSVGElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGSVGElement.m; sourceTree = "<group>"; };
-		10EBA834232B8D6C0067B1CF /* SVGDescriptionElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGDescriptionElement.m; sourceTree = "<group>"; };
-		10EBA835232B8D6C0067B1CF /* SVGStyleElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGStyleElement.h; sourceTree = "<group>"; };
-		10EBA836232B8D6C0067B1CF /* SVGTextElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGTextElement.h; sourceTree = "<group>"; };
-		10EBA837232B8D6C0067B1CF /* SVGSwitchElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGSwitchElement.m; sourceTree = "<group>"; };
-		10EBA838232B8D6C0067B1CF /* SVGPolylineElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGPolylineElement.m; sourceTree = "<group>"; };
-		10EBA839232B8D6C0067B1CF /* SVGRectElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGRectElement.m; sourceTree = "<group>"; };
-		10EBA83A232B8D6C0067B1CF /* SVGElement_ForParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGElement_ForParser.h; sourceTree = "<group>"; };
-		10EBA83B232B8D6C0067B1CF /* SVGCircleElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGCircleElement.m; sourceTree = "<group>"; };
-		10EBA83C232B8D6C0067B1CF /* SVGEllipseElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGEllipseElement.m; sourceTree = "<group>"; };
-		10EBA83D232B8D6C0067B1CF /* BaseClassForAllSVGBasicShapes.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseClassForAllSVGBasicShapes.m; sourceTree = "<group>"; };
-		10EBA83E232B8D6C0067B1CF /* SVGTitleElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGTitleElement.h; sourceTree = "<group>"; };
-		10EBA83F232B8D6C0067B1CF /* SVGImageElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGImageElement.m; sourceTree = "<group>"; };
-		10EBA840232B8D6C0067B1CF /* SVGGroupElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGGroupElement.m; sourceTree = "<group>"; };
-		10EBA841232B8D6C0067B1CF /* SVGGradientStop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGGradientStop.h; sourceTree = "<group>"; };
-		10EBA842232B8D6C0067B1CF /* SVGPolygonElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGPolygonElement.h; sourceTree = "<group>"; };
-		10EBA843232B8D6C0067B1CF /* TinySVGTextAreaElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TinySVGTextAreaElement.m; sourceTree = "<group>"; };
-		10EBA844232B8D6C0067B1CF /* SVGRadialGradientElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGRadialGradientElement.m; sourceTree = "<group>"; };
-		10EBA845232B8D6C0067B1CF /* SVGElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGElement.h; sourceTree = "<group>"; };
-		10EBA846232B8D6C0067B1CF /* SVGGradientElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGGradientElement.h; sourceTree = "<group>"; };
-		10EBA847232B8D6C0067B1CF /* SVGPathElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGPathElement.m; sourceTree = "<group>"; };
-		10EBA848232B8D6C0067B1CF /* SVGStyleElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGStyleElement.m; sourceTree = "<group>"; };
-		10EBA849232B8D6C0067B1CF /* SVGSVGElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGSVGElement.h; sourceTree = "<group>"; };
-		10EBA84A232B8D6C0067B1CF /* SVGDescriptionElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGDescriptionElement.h; sourceTree = "<group>"; };
-		10EBA84B232B8D6C0067B1CF /* SVGLineElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGLineElement.h; sourceTree = "<group>"; };
-		10EBA84C232B8D6C0067B1CF /* SVGLinearGradientElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGLinearGradientElement.h; sourceTree = "<group>"; };
-		10EBA84E232B8D6C0067B1CF /* CSSPrimitiveValue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSPrimitiveValue.h; sourceTree = "<group>"; };
-		10EBA84F232B8D6C0067B1CF /* CSSRuleList+Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CSSRuleList+Mutable.h"; sourceTree = "<group>"; };
-		10EBA850232B8D6C0067B1CF /* CSSStyleSheet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSStyleSheet.h; sourceTree = "<group>"; };
-		10EBA851232B8D6C0067B1CF /* Node+Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Node+Mutable.h"; sourceTree = "<group>"; };
-		10EBA852232B8D6C0067B1CF /* Element.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Element.m; sourceTree = "<group>"; };
-		10EBA853232B8D6C0067B1CF /* NodeList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NodeList.h; sourceTree = "<group>"; };
-		10EBA854232B8D6C0067B1CF /* Attr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Attr.h; sourceTree = "<group>"; };
-		10EBA855232B8D6C0067B1CF /* CSSRule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSRule.m; sourceTree = "<group>"; };
-		10EBA856232B8D6C0067B1CF /* DocumentFragment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DocumentFragment.h; sourceTree = "<group>"; };
-		10EBA857232B8D6C0067B1CF /* CDATASection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CDATASection.h; sourceTree = "<group>"; };
-		10EBA858232B8D6C0067B1CF /* CSSValueList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSValueList.h; sourceTree = "<group>"; };
-		10EBA859232B8D6C0067B1CF /* NodeList+Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NodeList+Mutable.h"; sourceTree = "<group>"; };
-		10EBA85A232B8D6C0067B1CF /* CSSRuleList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSRuleList.m; sourceTree = "<group>"; };
-		10EBA85B232B8D6C0067B1CF /* NamedNodeMap_Iterable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NamedNodeMap_Iterable.h; sourceTree = "<group>"; };
-		10EBA85C232B8D6C0067B1CF /* ProcessingInstruction.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProcessingInstruction.h; sourceTree = "<group>"; };
-		10EBA85D232B8D6C0067B1CF /* DOMGlobalSettings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DOMGlobalSettings.h; sourceTree = "<group>"; };
-		10EBA85E232B8D6C0067B1CF /* Text.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Text.h; sourceTree = "<group>"; };
-		10EBA85F232B8D6C0067B1CF /* Document.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Document.m; sourceTree = "<group>"; };
-		10EBA860232B8D6C0067B1CF /* CSSValue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSValue.m; sourceTree = "<group>"; };
-		10EBA861232B8D6C0067B1CF /* EntityReference.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EntityReference.m; sourceTree = "<group>"; };
-		10EBA862232B8D6C0067B1CF /* Document+Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Document+Mutable.h"; sourceTree = "<group>"; };
-		10EBA863232B8D6C0067B1CF /* AppleSucksDOMImplementation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppleSucksDOMImplementation.m; sourceTree = "<group>"; };
-		10EBA864232B8D6C0067B1CF /* CSSValue_ForSubclasses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSValue_ForSubclasses.h; sourceTree = "<group>"; };
-		10EBA865232B8D6C0067B1CF /* NamedNodeMap.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NamedNodeMap.m; sourceTree = "<group>"; };
-		10EBA866232B8D6C0067B1CF /* DOMHelperUtilities.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DOMHelperUtilities.m; sourceTree = "<group>"; };
-		10EBA867232B8D6C0067B1CF /* Comment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Comment.h; sourceTree = "<group>"; };
-		10EBA868232B8D6C0067B1CF /* CSSStyleDeclaration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSStyleDeclaration.h; sourceTree = "<group>"; };
-		10EBA869232B8D6C0067B1CF /* DocumentType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DocumentType.m; sourceTree = "<group>"; };
-		10EBA86A232B8D6C0067B1CF /* StyleSheet.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StyleSheet.m; sourceTree = "<group>"; };
-		10EBA86B232B8D6C0067B1CF /* StyleSheetList+Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StyleSheetList+Mutable.h"; sourceTree = "<group>"; };
-		10EBA86C232B8D6C0067B1CF /* Node.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
-		10EBA86D232B8D6C0067B1CF /* CSSStyleRule.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSStyleRule.h; sourceTree = "<group>"; };
-		10EBA86E232B8D6C0067B1CF /* StyleSheetList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StyleSheetList.m; sourceTree = "<group>"; };
-		10EBA86F232B8D6C0067B1CF /* MediaList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MediaList.h; sourceTree = "<group>"; };
-		10EBA870232B8D6C0067B1CF /* CharacterData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CharacterData.h; sourceTree = "<group>"; };
-		10EBA871232B8D6C0067B1CF /* DocumentStyle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DocumentStyle.h; sourceTree = "<group>"; };
-		10EBA872232B8D6C0067B1CF /* CSSValueList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSValueList.m; sourceTree = "<group>"; };
-		10EBA873232B8D6C0067B1CF /* CSSRuleList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSRuleList.h; sourceTree = "<group>"; };
-		10EBA874232B8D6C0067B1CF /* DocumentFragment.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DocumentFragment.m; sourceTree = "<group>"; };
-		10EBA875232B8D6C0067B1CF /* CDATASection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CDATASection.m; sourceTree = "<group>"; };
-		10EBA876232B8D6C0067B1CF /* Attr.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Attr.m; sourceTree = "<group>"; };
-		10EBA877232B8D6C0067B1CF /* NodeList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NodeList.m; sourceTree = "<group>"; };
-		10EBA878232B8D6C0067B1CF /* CSSRule.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSRule.h; sourceTree = "<group>"; };
-		10EBA879232B8D6C0067B1CF /* Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Element.h; sourceTree = "<group>"; };
-		10EBA87A232B8D6C0067B1CF /* CSSStyleSheet.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSStyleSheet.m; sourceTree = "<group>"; };
-		10EBA87B232B8D6C0067B1CF /* CSSPrimitiveValue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSPrimitiveValue.m; sourceTree = "<group>"; };
-		10EBA87C232B8D6C0067B1CF /* EntityReference.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EntityReference.h; sourceTree = "<group>"; };
-		10EBA87D232B8D6C0067B1CF /* CSSValue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSValue.h; sourceTree = "<group>"; };
-		10EBA87E232B8D6C0067B1CF /* CSSPrimitiveValue_ConfigurablePixelsPerInch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSSPrimitiveValue_ConfigurablePixelsPerInch.h; sourceTree = "<group>"; };
-		10EBA87F232B8D6C0067B1CF /* Document.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Document.h; sourceTree = "<group>"; };
-		10EBA880232B8D6C0067B1CF /* Text.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Text.m; sourceTree = "<group>"; };
-		10EBA881232B8D6C0067B1CF /* ProcessingInstruction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProcessingInstruction.m; sourceTree = "<group>"; };
-		10EBA882232B8D6C0067B1CF /* DocumentCSS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DocumentCSS.h; sourceTree = "<group>"; };
-		10EBA883232B8D6C0067B1CF /* DocumentType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DocumentType.h; sourceTree = "<group>"; };
-		10EBA884232B8D6C0067B1CF /* CSSStyleDeclaration.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSStyleDeclaration.m; sourceTree = "<group>"; };
-		10EBA885232B8D6C0067B1CF /* Comment.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Comment.m; sourceTree = "<group>"; };
-		10EBA886232B8D6C0067B1CF /* DOMHelperUtilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DOMHelperUtilities.h; sourceTree = "<group>"; };
-		10EBA887232B8D6C0067B1CF /* NamedNodeMap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NamedNodeMap.h; sourceTree = "<group>"; };
-		10EBA888232B8D6C0067B1CF /* AppleSucksDOMImplementation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppleSucksDOMImplementation.h; sourceTree = "<group>"; };
-		10EBA889232B8D6C0067B1CF /* CharacterData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CharacterData.m; sourceTree = "<group>"; };
-		10EBA88A232B8D6C0067B1CF /* StyleSheetList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StyleSheetList.h; sourceTree = "<group>"; };
-		10EBA88B232B8D6C0067B1CF /* MediaList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MediaList.m; sourceTree = "<group>"; };
-		10EBA88C232B8D6C0067B1CF /* CSSStyleRule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CSSStyleRule.m; sourceTree = "<group>"; };
-		10EBA88D232B8D6C0067B1CF /* Node.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Node.m; sourceTree = "<group>"; };
-		10EBA88E232B8D6C0067B1CF /* StyleSheet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StyleSheet.h; sourceTree = "<group>"; };
-		10EBA890232B8D6C0067B1CF /* SVGGElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGGElement.m; sourceTree = "<group>"; };
-		10EBA891232B8D6C0067B1CF /* SVGViewSpec.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGViewSpec.h; sourceTree = "<group>"; };
-		10EBA892232B8D6C0067B1CF /* SVGNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGNumber.h; sourceTree = "<group>"; };
-		10EBA893232B8D6C0067B1CF /* SVGElementInstanceList.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGElementInstanceList.m; sourceTree = "<group>"; };
-		10EBA894232B8D6C0067B1CF /* SVGDocument_Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGDocument_Mutable.h; sourceTree = "<group>"; };
-		10EBA895232B8D6C0067B1CF /* SVGTextPositioningElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGTextPositioningElement.m; sourceTree = "<group>"; };
-		10EBA896232B8D6C0067B1CF /* SVGRect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGRect.h; sourceTree = "<group>"; };
-		10EBA897232B8D6C0067B1CF /* SVGDefsElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGDefsElement.m; sourceTree = "<group>"; };
-		10EBA898232B8D6C0067B1CF /* SVGAnimatedPreserveAspectRatio.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGAnimatedPreserveAspectRatio.h; sourceTree = "<group>"; };
-		10EBA899232B8D6C0067B1CF /* SVGElementInstance.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGElementInstance.m; sourceTree = "<group>"; };
-		10EBA89A232B8D6C0067B1CF /* SVGMatrix.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGMatrix.m; sourceTree = "<group>"; };
-		10EBA89B232B8D6C0067B1CF /* SVGUseElement_Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGUseElement_Mutable.h; sourceTree = "<group>"; };
-		10EBA89C232B8D6C0067B1CF /* SVGPreserveAspectRatio.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGPreserveAspectRatio.m; sourceTree = "<group>"; };
-		10EBA89D232B8D6C0067B1CF /* SVGDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGDocument.h; sourceTree = "<group>"; };
-		10EBA89E232B8D6C0067B1CF /* SVGHelperUtilities.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGHelperUtilities.m; sourceTree = "<group>"; };
-		10EBA89F232B8D6C0067B1CF /* SVGTextPositioningElement_Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGTextPositioningElement_Mutable.h; sourceTree = "<group>"; };
-		10EBA8A0232B8D6C0067B1CF /* SVGTextContentElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGTextContentElement.m; sourceTree = "<group>"; };
-		10EBA8A1232B8D6C0067B1CF /* SVGAngle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGAngle.h; sourceTree = "<group>"; };
-		10EBA8A2232B8D6C0067B1CF /* SVGUseElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGUseElement.h; sourceTree = "<group>"; };
-		10EBA8A3232B8D6C0067B1CF /* SVGTransform.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGTransform.h; sourceTree = "<group>"; };
-		10EBA8A4232B8D6C0067B1CF /* SVGLength.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGLength.h; sourceTree = "<group>"; };
-		10EBA8A5232B8D6C0067B1CF /* SVGClipPathElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGClipPathElement.m; sourceTree = "<group>"; };
-		10EBA8A6232B8D6C0067B1CF /* SVGPoint.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGPoint.m; sourceTree = "<group>"; };
-		10EBA8A7232B8D6C0067B1CF /* SVGTransformable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGTransformable.h; sourceTree = "<group>"; };
-		10EBA8A8232B8D6C0067B1CF /* SVGDefsElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGDefsElement.h; sourceTree = "<group>"; };
-		10EBA8A9232B8D6C0067B1CF /* SVGRect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGRect.m; sourceTree = "<group>"; };
-		10EBA8AA232B8D6C0067B1CF /* SVGTextPositioningElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGTextPositioningElement.h; sourceTree = "<group>"; };
-		10EBA8AB232B8D6C0067B1CF /* SVGElementInstanceList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGElementInstanceList.h; sourceTree = "<group>"; };
-		10EBA8AC232B8D6C0067B1CF /* SVGGElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGGElement.h; sourceTree = "<group>"; };
-		10EBA8AD232B8D6C0067B1CF /* SVGUnitTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGUnitTypes.h; sourceTree = "<group>"; };
-		10EBA8AE232B8D6C0067B1CF /* SVGElementInstanceList_Internal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGElementInstanceList_Internal.h; sourceTree = "<group>"; };
-		10EBA8AF232B8D6C0067B1CF /* SVGMatrix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGMatrix.h; sourceTree = "<group>"; };
-		10EBA8B0232B8D6C0067B1CF /* SVGElementInstance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGElementInstance.h; sourceTree = "<group>"; };
-		10EBA8B1232B8D6C0067B1CF /* SVGAnimatedPreserveAspectRatio.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGAnimatedPreserveAspectRatio.m; sourceTree = "<group>"; };
-		10EBA8B2232B8D6C0067B1CF /* SVGSVGElement_Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGSVGElement_Mutable.h; sourceTree = "<group>"; };
-		10EBA8B3232B8D6C0067B1CF /* SVGAngle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGAngle.m; sourceTree = "<group>"; };
-		10EBA8B4232B8D6C0067B1CF /* SVGTextContentElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGTextContentElement.h; sourceTree = "<group>"; };
-		10EBA8B5232B8D6C0067B1CF /* SVGHelperUtilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGHelperUtilities.h; sourceTree = "<group>"; };
-		10EBA8B6232B8D6C0067B1CF /* SVGPreserveAspectRatio.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGPreserveAspectRatio.h; sourceTree = "<group>"; };
-		10EBA8B7232B8D6C0067B1CF /* SVGDocument.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGDocument.m; sourceTree = "<group>"; };
-		10EBA8B8232B8D6C0067B1CF /* SVGPoint.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGPoint.h; sourceTree = "<group>"; };
-		10EBA8B9232B8D6C0067B1CF /* SVGClipPathElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGClipPathElement.h; sourceTree = "<group>"; };
-		10EBA8BA232B8D6C0067B1CF /* SVGLength.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGLength.m; sourceTree = "<group>"; };
-		10EBA8BB232B8D6C0067B1CF /* SVGStylable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGStylable.h; sourceTree = "<group>"; };
-		10EBA8BC232B8D6C0067B1CF /* SVGElementInstance_Mutable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGElementInstance_Mutable.h; sourceTree = "<group>"; };
-		10EBA8BD232B8D6C0067B1CF /* SVGTransform.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGTransform.m; sourceTree = "<group>"; };
-		10EBA8BE232B8D6C0067B1CF /* SVGFitToViewBox.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGFitToViewBox.h; sourceTree = "<group>"; };
-		10EBA8BF232B8D6C0067B1CF /* SVGUseElement.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGUseElement.m; sourceTree = "<group>"; };
-		10EBA8C1232B8D6C0067B1CF /* NSCharacterSet+SVGKExtensions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSCharacterSet+SVGKExtensions.h"; sourceTree = "<group>"; };
-		10EBA8C2232B8D6C0067B1CF /* NSData+NSInputStream.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSData+NSInputStream.h"; sourceTree = "<group>"; };
-		10EBA8C3232B8D6C0067B1CF /* NSData+NSInputStream.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSData+NSInputStream.m"; sourceTree = "<group>"; };
-		10EBA8C4232B8D6C0067B1CF /* NSCharacterSet+SVGKExtensions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSCharacterSet+SVGKExtensions.m"; sourceTree = "<group>"; };
-		10EBA8C6232B8D6C0067B1CF /* SVGKParserExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParserExtension.h; sourceTree = "<group>"; };
-		10EBA8C7232B8D6C0067B1CF /* SVGKPointsAndPathsParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKPointsAndPathsParser.h; sourceTree = "<group>"; };
-		10EBA8C8232B8D6C0067B1CF /* SVGKParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParser.m; sourceTree = "<group>"; };
-		10EBA8C9232B8D6C0067B1CF /* SVGKParseResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParseResult.h; sourceTree = "<group>"; };
-		10EBA8CA232B8D6C0067B1CF /* SVGKPointsAndPathsParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKPointsAndPathsParser.m; sourceTree = "<group>"; };
-		10EBA8CB232B8D6C0067B1CF /* SVGKParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParser.h; sourceTree = "<group>"; };
-		10EBA8CC232B8D6C0067B1CF /* SVGKParseResult.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParseResult.m; sourceTree = "<group>"; };
-		10EBA8CE232B8D6C0067B1CF /* SVGKParserStyles.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParserStyles.h; sourceTree = "<group>"; };
-		10EBA8CF232B8D6C0067B1CF /* SVGKParserDOM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParserDOM.h; sourceTree = "<group>"; };
-		10EBA8D0232B8D6C0067B1CF /* SVGKParserGradient.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParserGradient.h; sourceTree = "<group>"; };
-		10EBA8D1232B8D6C0067B1CF /* SVGKParserDefsAndUse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParserDefsAndUse.m; sourceTree = "<group>"; };
-		10EBA8D2232B8D6C0067B1CF /* SVGKParserPatternsAndGradients.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParserPatternsAndGradients.h; sourceTree = "<group>"; };
-		10EBA8D3232B8D6C0067B1CF /* SVGKParserSVG.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParserSVG.h; sourceTree = "<group>"; };
-		10EBA8D4232B8D6C0067B1CF /* SVGKParserStyles.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParserStyles.m; sourceTree = "<group>"; };
-		10EBA8D5232B8D6C0067B1CF /* SVGKParserGradient.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParserGradient.m; sourceTree = "<group>"; };
-		10EBA8D6232B8D6C0067B1CF /* SVGKParserDOM.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParserDOM.m; sourceTree = "<group>"; };
-		10EBA8D7232B8D6C0067B1CF /* SVGKParserSVG.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParserSVG.m; sourceTree = "<group>"; };
-		10EBA8D8232B8D6C0067B1CF /* SVGKParserPatternsAndGradients.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKParserPatternsAndGradients.m; sourceTree = "<group>"; };
-		10EBA8D9232B8D6C0067B1CF /* SVGKParserDefsAndUse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKParserDefsAndUse.h; sourceTree = "<group>"; };
-		10EBA8DA232B8D6C0067B1CF /* SVGKImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKImage.m; sourceTree = "<group>"; };
-		10EBA8DB232B8D6C0067B1CF /* SVGKSource.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKSource.m; sourceTree = "<group>"; };
-		10EBA8DD232B8D6C0067B1CF /* SVGKImage+CGContext.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SVGKImage+CGContext.h"; sourceTree = "<group>"; };
-		10EBA8DE232B8D6C0067B1CF /* SVGKExporterNSData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKExporterNSData.h; sourceTree = "<group>"; };
-		10EBA8DF232B8D6C0067B1CF /* SVGKExporterUIImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKExporterUIImage.h; sourceTree = "<group>"; };
-		10EBA8E0232B8D6C0067B1CF /* SVGKExporterNSData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKExporterNSData.m; sourceTree = "<group>"; };
-		10EBA8E1232B8D6C0067B1CF /* SVGKImage+CGContext.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "SVGKImage+CGContext.m"; sourceTree = "<group>"; };
-		10EBA8E2232B8D6C0067B1CF /* SVGKExporterUIImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKExporterUIImage.m; sourceTree = "<group>"; };
-		10EBA8E4232B8D6C0067B1CF /* SVGKPattern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKPattern.h; sourceTree = "<group>"; };
-		10EBA8E5232B8D6C0067B1CF /* SVGUtils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGUtils.m; sourceTree = "<group>"; };
-		10EBA8E6232B8D6C0067B1CF /* SVGKPattern.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKPattern.m; sourceTree = "<group>"; };
-		10EBA8E7232B8D6C0067B1CF /* SVGUtils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGUtils.h; sourceTree = "<group>"; };
-		10EBA8E8232B8D6C0067B1CF /* SVGKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKit.m; sourceTree = "<group>"; };
-		10EBA8EA232B8D6C0067B1CF /* SVGKFastImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKFastImageView.m; sourceTree = "<group>"; };
-		10EBA8EB232B8D6C0067B1CF /* SVGKLayeredImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKLayeredImageView.m; sourceTree = "<group>"; };
-		10EBA8EC232B8D6C0067B1CF /* SVGKImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKImageView.h; sourceTree = "<group>"; };
-		10EBA8ED232B8D6C0067B1CF /* SVGKFastImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKFastImageView.h; sourceTree = "<group>"; };
-		10EBA8EE232B8D6C0067B1CF /* SVGKLayeredImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKLayeredImageView.h; sourceTree = "<group>"; };
-		10EBA8EF232B8D6C0067B1CF /* SVGKImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKImageView.m; sourceTree = "<group>"; };
-		10EBA8F1232B8D6C0067B1CF /* SVGKLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKLayer.h; sourceTree = "<group>"; };
-		10EBA8F2232B8D6C0067B1CF /* SVGGradientLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGGradientLayer.m; sourceTree = "<group>"; };
-		10EBA8F3232B8D6C0067B1CF /* CALayerWithClipRender.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CALayerWithClipRender.m; sourceTree = "<group>"; };
-		10EBA8F4232B8D6C0067B1CF /* CALayer+RecursiveClone.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CALayer+RecursiveClone.h"; sourceTree = "<group>"; };
-		10EBA8F5232B8D6C0067B1CF /* CAShapeLayerWithClipRender.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAShapeLayerWithClipRender.m; sourceTree = "<group>"; };
-		10EBA8F6232B8D6C0067B1CF /* CAShapeLayerWithHitTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAShapeLayerWithHitTest.h; sourceTree = "<group>"; };
-		10EBA8F7232B8D6C0067B1CF /* CALayerWithChildHitTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CALayerWithChildHitTest.h; sourceTree = "<group>"; };
-		10EBA8F8232B8D6C0067B1CF /* CGPathAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CGPathAdditions.m; sourceTree = "<group>"; };
-		10EBA8F9232B8D6C0067B1CF /* SVGKLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKLayer.m; sourceTree = "<group>"; };
-		10EBA8FA232B8D6C0067B1CF /* SVGGradientLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGGradientLayer.h; sourceTree = "<group>"; };
-		10EBA8FB232B8D6C0067B1CF /* CAShapeLayerWithClipRender.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAShapeLayerWithClipRender.h; sourceTree = "<group>"; };
-		10EBA8FC232B8D6C0067B1CF /* CALayer+RecursiveClone.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CALayer+RecursiveClone.m"; sourceTree = "<group>"; };
-		10EBA8FD232B8D6C0067B1CF /* CALayerWithClipRender.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CALayerWithClipRender.h; sourceTree = "<group>"; };
-		10EBA8FE232B8D6C0067B1CF /* CALayerWithChildHitTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CALayerWithChildHitTest.m; sourceTree = "<group>"; };
-		10EBA8FF232B8D6C0067B1CF /* CAShapeLayerWithHitTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAShapeLayerWithHitTest.m; sourceTree = "<group>"; };
-		10EBA900232B8D6C0067B1CF /* CGPathAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CGPathAdditions.h; sourceTree = "<group>"; };
-		10EBA902232B8D6C0067B1CF /* SVGKSourceString.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKSourceString.m; sourceTree = "<group>"; };
-		10EBA903232B8D6C0067B1CF /* SVGKSourceURL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKSourceURL.h; sourceTree = "<group>"; };
-		10EBA904232B8D6C0067B1CF /* SVGKSourceLocalFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKSourceLocalFile.h; sourceTree = "<group>"; };
-		10EBA905232B8D6C0067B1CF /* SVGKSourceNSData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKSourceNSData.h; sourceTree = "<group>"; };
-		10EBA906232B8D6C0067B1CF /* SVGKSourceString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKSourceString.h; sourceTree = "<group>"; };
-		10EBA907232B8D6C0067B1CF /* SVGKSourceNSData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKSourceNSData.m; sourceTree = "<group>"; };
-		10EBA908232B8D6C0067B1CF /* SVGKSourceURL.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKSourceURL.m; sourceTree = "<group>"; };
-		10EBA909232B8D6C0067B1CF /* SVGKSourceLocalFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVGKSourceLocalFile.m; sourceTree = "<group>"; };
-		10EBA90A232B8D6C0067B1CF /* SVGKImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKImage.h; sourceTree = "<group>"; };
-		10EBA90B232B8D6C0067B1CF /* SVGKSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKSource.h; sourceTree = "<group>"; };
-		10EBA90C232B8D6C0067B1CF /* SVGKDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKDefine.h; sourceTree = "<group>"; };
-		10EBA90D232B8D6C0067B1CF /* SVGKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVGKit.h; sourceTree = "<group>"; };
-		10EBA90E232B8D6C0067B1CF /* README.mdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.mdown; sourceTree = "<group>"; };
-		10EBA911232B8D6C0067B1CF /* SVGKit.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = SVGKit.modulemap; sourceTree = "<group>"; };
-		10EBA912232B8D6C0067B1CF /* SVGKit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SVGKit-Prefix.pch"; sourceTree = "<group>"; };
-		10EBAA11232BA15C0067B1CF /* Booket-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Booket-Bridging-Header.h"; sourceTree = "<group>"; };
-		1F7EEC79C16187C226D91D93 /* Pods-Booket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Booket.release.xcconfig"; path = "Target Support Files/Pods-Booket/Pods-Booket.release.xcconfig"; sourceTree = "<group>"; };
-		7D36DB789CB3CC05F77A249B /* Pods_Booket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Booket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		84AEB530648A022F0D168CB6 /* Pods-BooketTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketTests.release.xcconfig"; path = "Target Support Files/Pods-BooketTests/Pods-BooketTests.release.xcconfig"; sourceTree = "<group>"; };
-		8C9C7E6D77ED72A4867AB4DB /* Pods-BooketTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketTests.debug.xcconfig"; path = "Target Support Files/Pods-BooketTests/Pods-BooketTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B80901F0557706D93E7424EF /* Pods-Booket.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Booket.debug.xcconfig"; path = "Target Support Files/Pods-Booket/Pods-Booket.debug.xcconfig"; sourceTree = "<group>"; };
-		D6BB8B83CFB850F5EE47D277 /* Pods_BooketTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BooketTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF89EA9DEF80F11272E5A97A /* Pods_BooketUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BooketUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F23ED761B907F99B4947F398 /* Pods-BooketUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketUITests.release.xcconfig"; path = "Target Support Files/Pods-BooketUITests/Pods-BooketUITests.release.xcconfig"; sourceTree = "<group>"; };
+		498676C7FCE39604924F09C5 /* libPods-BooketTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BooketTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BFE957B3050577AC3358E06 /* Pods-Booket.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Booket.debug.xcconfig"; path = "Target Support Files/Pods-Booket/Pods-Booket.debug.xcconfig"; sourceTree = "<group>"; };
+		702B5A9E22F9DEB3007F83F2 /* Booket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Booket.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		702B5AA122F9DEB3007F83F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		702B5AA322F9DEB3007F83F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		702B5AA622F9DEB3007F83F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		702B5AA822F9DEB3007F83F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		702B5AAB22F9DEB3007F83F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		702B5AAD22F9DEB3007F83F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		702B5AB222F9DEB3007F83F2 /* BooketTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BooketTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		702B5AB622F9DEB3007F83F2 /* BooketTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooketTests.swift; sourceTree = "<group>"; };
+		702B5AB822F9DEB3007F83F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		702B5ABD22F9DEB3007F83F2 /* BooketUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BooketUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		702B5AC122F9DEB3007F83F2 /* BooketUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooketUITests.swift; sourceTree = "<group>"; };
+		702B5AC322F9DEB3007F83F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		702C88492330BADB00C915FB /* SVGKit-3.x */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "SVGKit-3.x"; sourceTree = "<group>"; };
+		7064F8722330737B00460AD9 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		7074F5B4232B97190051A659 /* Pods */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pods; sourceTree = "<group>"; };
+		7074F5B6232B972B0051A659 /* SwiftSVG */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SwiftSVG; path = Pods/SwiftSVG; sourceTree = "<group>"; };
+		7074F5B8232B973A0051A659 /* SVGKit */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SVGKit; path = Pods/SVGKit; sourceTree = "<group>"; };
+		7074F5BB232B9C190051A659 /* Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bridging-Header.h"; sourceTree = "<group>"; };
+		987F5AEC77C43A5AC2E26C66 /* libPods-BooketUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BooketUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C2CFF7258DB38A3877EFBAC /* Pods-BooketUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketUITests.release.xcconfig"; path = "Target Support Files/Pods-BooketUITests/Pods-BooketUITests.release.xcconfig"; sourceTree = "<group>"; };
+		A7B26CB4141A1A36A3333C0D /* Pods-BooketUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketUITests.debug.xcconfig"; path = "Target Support Files/Pods-BooketUITests/Pods-BooketUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		A94719613AFDA711341A8A20 /* Pods-BooketTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketTests.debug.xcconfig"; path = "Target Support Files/Pods-BooketTests/Pods-BooketTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B27CF9DE5EE1A4B99AE7A703 /* Pods-Booket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Booket.release.xcconfig"; path = "Target Support Files/Pods-Booket/Pods-Booket.release.xcconfig"; sourceTree = "<group>"; };
+		F34BE7678DC5492B62B55C77 /* Pods_Booket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Booket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE09BC5AD18312F85699C77D /* Pods-BooketTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BooketTests.release.xcconfig"; path = "Target Support Files/Pods-BooketTests/Pods-BooketTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		10529E5C23014949008D6242 /* Frameworks */ = {
+		702B5A9B22F9DEB3007F83F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEDC4DEC7FC60DCB0E37A103 /* Pods_Booket.framework in Frameworks */,
+				F921127EEDEAFD68750E4D60 /* Pods_Booket.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		10529E7223014949008D6242 /* Frameworks */ = {
+		702B5AAF22F9DEB3007F83F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF65A88685FAC0B87154206E /* Pods_BooketTests.framework in Frameworks */,
+				C959DDBCB5190208E145E1C8 /* libPods-BooketTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		10529E7D23014949008D6242 /* Frameworks */ = {
+		702B5ABA22F9DEB3007F83F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				190A2DF59873A97F513F667F /* Pods_BooketUITests.framework in Frameworks */,
+				B813247E267BB83E5F9F07F6 /* libPods-BooketUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		10529E5623014949008D6242 = {
+		702B5A9522F9DEB2007F83F2 = {
 			isa = PBXGroup;
 			children = (
-				10529E6123014949008D6242 /* Booket */,
-				10529E7823014949008D6242 /* BooketTests */,
-				10529E8323014949008D6242 /* BooketUITests */,
-				10529E6023014949008D6242 /* Products */,
-				710C5D80A26F124672D0DF16 /* Pods */,
-				5A003FDA27EAA68E76E22F0D /* Frameworks */,
+				702C88492330BADB00C915FB /* SVGKit-3.x */,
+				7064F8722330737B00460AD9 /* PrefixHeader.pch */,
+				7074F5BB232B9C190051A659 /* Bridging-Header.h */,
+				702B5AA022F9DEB3007F83F2 /* Booket */,
+				702B5AB522F9DEB3007F83F2 /* BooketTests */,
+				702B5AC022F9DEB3007F83F2 /* BooketUITests */,
+				702B5A9F22F9DEB3007F83F2 /* Products */,
+				DC9F5E5EB7920158EAE3A688 /* Pods */,
+				CBC2828A72418C1FCF23515B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		10529E6023014949008D6242 /* Products */ = {
+		702B5A9F22F9DEB3007F83F2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				10529E5F23014949008D6242 /* Booket.app */,
-				10529E7523014949008D6242 /* BooketTests.xctest */,
-				10529E8023014949008D6242 /* BooketUITests.xctest */,
+				702B5A9E22F9DEB3007F83F2 /* Booket.app */,
+				702B5AB222F9DEB3007F83F2 /* BooketTests.xctest */,
+				702B5ABD22F9DEB3007F83F2 /* BooketUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		10529E6123014949008D6242 /* Booket */ = {
+		702B5AA022F9DEB3007F83F2 /* Booket */ = {
 			isa = PBXGroup;
 			children = (
-				10EBAA11232BA15C0067B1CF /* Booket-Bridging-Header.h */,
-				107AB99823144D5D005FA34F /* Resources */,
-				10529E6223014949008D6242 /* AppDelegate.swift */,
-				10529E6423014949008D6242 /* FirstViewController.swift */,
-				10529E6623014949008D6242 /* SecondViewController.swift */,
-				10529E6823014949008D6242 /* Main.storyboard */,
-				10529E6B23014949008D6242 /* Assets.xcassets */,
-				10529E6D23014949008D6242 /* LaunchScreen.storyboard */,
-				10529E7023014949008D6242 /* Info.plist */,
+				702B5AA122F9DEB3007F83F2 /* AppDelegate.swift */,
+				702B5AA322F9DEB3007F83F2 /* ViewController.swift */,
+				702B5AA522F9DEB3007F83F2 /* Main.storyboard */,
+				702B5AA822F9DEB3007F83F2 /* Assets.xcassets */,
+				702B5AAA22F9DEB3007F83F2 /* LaunchScreen.storyboard */,
+				702B5AAD22F9DEB3007F83F2 /* Info.plist */,
 			);
 			path = Booket;
 			sourceTree = "<group>";
 		};
-		10529E7823014949008D6242 /* BooketTests */ = {
+		702B5AB522F9DEB3007F83F2 /* BooketTests */ = {
 			isa = PBXGroup;
 			children = (
-				10529E7923014949008D6242 /* BooketTests.swift */,
-				10529E7B23014949008D6242 /* Info.plist */,
+				702B5AB622F9DEB3007F83F2 /* BooketTests.swift */,
+				702B5AB822F9DEB3007F83F2 /* Info.plist */,
 			);
 			path = BooketTests;
 			sourceTree = "<group>";
 		};
-		10529E8323014949008D6242 /* BooketUITests */ = {
+		702B5AC022F9DEB3007F83F2 /* BooketUITests */ = {
 			isa = PBXGroup;
 			children = (
-				10529E8423014949008D6242 /* BooketUITests.swift */,
-				10529E8623014949008D6242 /* Info.plist */,
+				702B5AC122F9DEB3007F83F2 /* BooketUITests.swift */,
+				702B5AC322F9DEB3007F83F2 /* Info.plist */,
 			);
 			path = BooketUITests;
 			sourceTree = "<group>";
 		};
-		107AB99823144D5D005FA34F /* Resources */ = {
+		CBC2828A72418C1FCF23515B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				101CEAD22320F1750081D9BD /* HomeView.svg */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		10EBA818232B8D6C0067B1CF /* SVGKit */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA819232B8D6C0067B1CF /* LICENSE */,
-				10EBA81A232B8D6C0067B1CF /* Source */,
-				10EBA90E232B8D6C0067B1CF /* README.mdown */,
-				10EBA90F232B8D6C0067B1CF /* SVGKitLibrary */,
-			);
-			name = SVGKit;
-			path = Pods/SVGKit;
-			sourceTree = "<group>";
-		};
-		10EBA81A232B8D6C0067B1CF /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA81B232B8D6C0067B1CF /* DOM classes */,
-				10EBA8C0232B8D6C0067B1CF /* Foundation additions */,
-				10EBA8C5232B8D6C0067B1CF /* Parsers */,
-				10EBA8DA232B8D6C0067B1CF /* SVGKImage.m */,
-				10EBA8DB232B8D6C0067B1CF /* SVGKSource.m */,
-				10EBA8DC232B8D6C0067B1CF /* Exporters */,
-				10EBA8E3232B8D6C0067B1CF /* Utils */,
-				10EBA8E8232B8D6C0067B1CF /* SVGKit.m */,
-				10EBA8E9232B8D6C0067B1CF /* UIKit additions */,
-				10EBA8F0232B8D6C0067B1CF /* QuartzCore additions */,
-				10EBA901232B8D6C0067B1CF /* Sources */,
-				10EBA90A232B8D6C0067B1CF /* SVGKImage.h */,
-				10EBA90B232B8D6C0067B1CF /* SVGKSource.h */,
-				10EBA90C232B8D6C0067B1CF /* SVGKDefine.h */,
-				10EBA90D232B8D6C0067B1CF /* SVGKit.h */,
-			);
-			path = Source;
-			sourceTree = "<group>";
-		};
-		10EBA81B232B8D6C0067B1CF /* DOM classes */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA81C232B8D6C0067B1CF /* Unported or Partial DOM */,
-				10EBA84D232B8D6C0067B1CF /* Core DOM */,
-				10EBA88F232B8D6C0067B1CF /* SVG-DOM */,
-			);
-			path = "DOM classes";
-			sourceTree = "<group>";
-		};
-		10EBA81C232B8D6C0067B1CF /* Unported or Partial DOM */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA81D232B8D6C0067B1CF /* ConverterSVGToCALayer.h */,
-				10EBA81E232B8D6C0067B1CF /* SVGRectElement.h */,
-				10EBA81F232B8D6C0067B1CF /* SVGTextElement.m */,
-				10EBA820232B8D6C0067B1CF /* SVGSwitchElement.h */,
-				10EBA821232B8D6C0067B1CF /* SVGPolylineElement.h */,
-				10EBA822232B8D6C0067B1CF /* SVGPolygonElement.m */,
-				10EBA823232B8D6C0067B1CF /* SVGGradientStop.m */,
-				10EBA824232B8D6C0067B1CF /* SVGGroupElement.h */,
-				10EBA825232B8D6C0067B1CF /* SVGImageElement.h */,
-				10EBA826232B8D6C0067B1CF /* SVGTitleElement.m */,
-				10EBA827232B8D6C0067B1CF /* BaseClassForAllSVGBasicShapes.h */,
-				10EBA828232B8D6C0067B1CF /* SVGEllipseElement.h */,
-				10EBA829232B8D6C0067B1CF /* SVGCircleElement.h */,
-				10EBA82A232B8D6C0067B1CF /* SVGPathElement.h */,
-				10EBA82B232B8D6C0067B1CF /* SVGElement.m */,
-				10EBA82C232B8D6C0067B1CF /* SVGGradientElement.m */,
-				10EBA82D232B8D6C0067B1CF /* SVGRadialGradientElement.h */,
-				10EBA82E232B8D6C0067B1CF /* TinySVGTextAreaElement.h */,
-				10EBA82F232B8D6C0067B1CF /* BaseClassForAllSVGBasicShapes_ForSubclasses.h */,
-				10EBA830232B8D6C0067B1CF /* SVGStyleCatcher.h */,
-				10EBA831232B8D6C0067B1CF /* SVGLinearGradientElement.m */,
-				10EBA832232B8D6C0067B1CF /* SVGLineElement.m */,
-				10EBA833232B8D6C0067B1CF /* SVGSVGElement.m */,
-				10EBA834232B8D6C0067B1CF /* SVGDescriptionElement.m */,
-				10EBA835232B8D6C0067B1CF /* SVGStyleElement.h */,
-				10EBA836232B8D6C0067B1CF /* SVGTextElement.h */,
-				10EBA837232B8D6C0067B1CF /* SVGSwitchElement.m */,
-				10EBA838232B8D6C0067B1CF /* SVGPolylineElement.m */,
-				10EBA839232B8D6C0067B1CF /* SVGRectElement.m */,
-				10EBA83A232B8D6C0067B1CF /* SVGElement_ForParser.h */,
-				10EBA83B232B8D6C0067B1CF /* SVGCircleElement.m */,
-				10EBA83C232B8D6C0067B1CF /* SVGEllipseElement.m */,
-				10EBA83D232B8D6C0067B1CF /* BaseClassForAllSVGBasicShapes.m */,
-				10EBA83E232B8D6C0067B1CF /* SVGTitleElement.h */,
-				10EBA83F232B8D6C0067B1CF /* SVGImageElement.m */,
-				10EBA840232B8D6C0067B1CF /* SVGGroupElement.m */,
-				10EBA841232B8D6C0067B1CF /* SVGGradientStop.h */,
-				10EBA842232B8D6C0067B1CF /* SVGPolygonElement.h */,
-				10EBA843232B8D6C0067B1CF /* TinySVGTextAreaElement.m */,
-				10EBA844232B8D6C0067B1CF /* SVGRadialGradientElement.m */,
-				10EBA845232B8D6C0067B1CF /* SVGElement.h */,
-				10EBA846232B8D6C0067B1CF /* SVGGradientElement.h */,
-				10EBA847232B8D6C0067B1CF /* SVGPathElement.m */,
-				10EBA848232B8D6C0067B1CF /* SVGStyleElement.m */,
-				10EBA849232B8D6C0067B1CF /* SVGSVGElement.h */,
-				10EBA84A232B8D6C0067B1CF /* SVGDescriptionElement.h */,
-				10EBA84B232B8D6C0067B1CF /* SVGLineElement.h */,
-				10EBA84C232B8D6C0067B1CF /* SVGLinearGradientElement.h */,
-			);
-			path = "Unported or Partial DOM";
-			sourceTree = "<group>";
-		};
-		10EBA84D232B8D6C0067B1CF /* Core DOM */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA84E232B8D6C0067B1CF /* CSSPrimitiveValue.h */,
-				10EBA84F232B8D6C0067B1CF /* CSSRuleList+Mutable.h */,
-				10EBA850232B8D6C0067B1CF /* CSSStyleSheet.h */,
-				10EBA851232B8D6C0067B1CF /* Node+Mutable.h */,
-				10EBA852232B8D6C0067B1CF /* Element.m */,
-				10EBA853232B8D6C0067B1CF /* NodeList.h */,
-				10EBA854232B8D6C0067B1CF /* Attr.h */,
-				10EBA855232B8D6C0067B1CF /* CSSRule.m */,
-				10EBA856232B8D6C0067B1CF /* DocumentFragment.h */,
-				10EBA857232B8D6C0067B1CF /* CDATASection.h */,
-				10EBA858232B8D6C0067B1CF /* CSSValueList.h */,
-				10EBA859232B8D6C0067B1CF /* NodeList+Mutable.h */,
-				10EBA85A232B8D6C0067B1CF /* CSSRuleList.m */,
-				10EBA85B232B8D6C0067B1CF /* NamedNodeMap_Iterable.h */,
-				10EBA85C232B8D6C0067B1CF /* ProcessingInstruction.h */,
-				10EBA85D232B8D6C0067B1CF /* DOMGlobalSettings.h */,
-				10EBA85E232B8D6C0067B1CF /* Text.h */,
-				10EBA85F232B8D6C0067B1CF /* Document.m */,
-				10EBA860232B8D6C0067B1CF /* CSSValue.m */,
-				10EBA861232B8D6C0067B1CF /* EntityReference.m */,
-				10EBA862232B8D6C0067B1CF /* Document+Mutable.h */,
-				10EBA863232B8D6C0067B1CF /* AppleSucksDOMImplementation.m */,
-				10EBA864232B8D6C0067B1CF /* CSSValue_ForSubclasses.h */,
-				10EBA865232B8D6C0067B1CF /* NamedNodeMap.m */,
-				10EBA866232B8D6C0067B1CF /* DOMHelperUtilities.m */,
-				10EBA867232B8D6C0067B1CF /* Comment.h */,
-				10EBA868232B8D6C0067B1CF /* CSSStyleDeclaration.h */,
-				10EBA869232B8D6C0067B1CF /* DocumentType.m */,
-				10EBA86A232B8D6C0067B1CF /* StyleSheet.m */,
-				10EBA86B232B8D6C0067B1CF /* StyleSheetList+Mutable.h */,
-				10EBA86C232B8D6C0067B1CF /* Node.h */,
-				10EBA86D232B8D6C0067B1CF /* CSSStyleRule.h */,
-				10EBA86E232B8D6C0067B1CF /* StyleSheetList.m */,
-				10EBA86F232B8D6C0067B1CF /* MediaList.h */,
-				10EBA870232B8D6C0067B1CF /* CharacterData.h */,
-				10EBA871232B8D6C0067B1CF /* DocumentStyle.h */,
-				10EBA872232B8D6C0067B1CF /* CSSValueList.m */,
-				10EBA873232B8D6C0067B1CF /* CSSRuleList.h */,
-				10EBA874232B8D6C0067B1CF /* DocumentFragment.m */,
-				10EBA875232B8D6C0067B1CF /* CDATASection.m */,
-				10EBA876232B8D6C0067B1CF /* Attr.m */,
-				10EBA877232B8D6C0067B1CF /* NodeList.m */,
-				10EBA878232B8D6C0067B1CF /* CSSRule.h */,
-				10EBA879232B8D6C0067B1CF /* Element.h */,
-				10EBA87A232B8D6C0067B1CF /* CSSStyleSheet.m */,
-				10EBA87B232B8D6C0067B1CF /* CSSPrimitiveValue.m */,
-				10EBA87C232B8D6C0067B1CF /* EntityReference.h */,
-				10EBA87D232B8D6C0067B1CF /* CSSValue.h */,
-				10EBA87E232B8D6C0067B1CF /* CSSPrimitiveValue_ConfigurablePixelsPerInch.h */,
-				10EBA87F232B8D6C0067B1CF /* Document.h */,
-				10EBA880232B8D6C0067B1CF /* Text.m */,
-				10EBA881232B8D6C0067B1CF /* ProcessingInstruction.m */,
-				10EBA882232B8D6C0067B1CF /* DocumentCSS.h */,
-				10EBA883232B8D6C0067B1CF /* DocumentType.h */,
-				10EBA884232B8D6C0067B1CF /* CSSStyleDeclaration.m */,
-				10EBA885232B8D6C0067B1CF /* Comment.m */,
-				10EBA886232B8D6C0067B1CF /* DOMHelperUtilities.h */,
-				10EBA887232B8D6C0067B1CF /* NamedNodeMap.h */,
-				10EBA888232B8D6C0067B1CF /* AppleSucksDOMImplementation.h */,
-				10EBA889232B8D6C0067B1CF /* CharacterData.m */,
-				10EBA88A232B8D6C0067B1CF /* StyleSheetList.h */,
-				10EBA88B232B8D6C0067B1CF /* MediaList.m */,
-				10EBA88C232B8D6C0067B1CF /* CSSStyleRule.m */,
-				10EBA88D232B8D6C0067B1CF /* Node.m */,
-				10EBA88E232B8D6C0067B1CF /* StyleSheet.h */,
-			);
-			path = "Core DOM";
-			sourceTree = "<group>";
-		};
-		10EBA88F232B8D6C0067B1CF /* SVG-DOM */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA890232B8D6C0067B1CF /* SVGGElement.m */,
-				10EBA891232B8D6C0067B1CF /* SVGViewSpec.h */,
-				10EBA892232B8D6C0067B1CF /* SVGNumber.h */,
-				10EBA893232B8D6C0067B1CF /* SVGElementInstanceList.m */,
-				10EBA894232B8D6C0067B1CF /* SVGDocument_Mutable.h */,
-				10EBA895232B8D6C0067B1CF /* SVGTextPositioningElement.m */,
-				10EBA896232B8D6C0067B1CF /* SVGRect.h */,
-				10EBA897232B8D6C0067B1CF /* SVGDefsElement.m */,
-				10EBA898232B8D6C0067B1CF /* SVGAnimatedPreserveAspectRatio.h */,
-				10EBA899232B8D6C0067B1CF /* SVGElementInstance.m */,
-				10EBA89A232B8D6C0067B1CF /* SVGMatrix.m */,
-				10EBA89B232B8D6C0067B1CF /* SVGUseElement_Mutable.h */,
-				10EBA89C232B8D6C0067B1CF /* SVGPreserveAspectRatio.m */,
-				10EBA89D232B8D6C0067B1CF /* SVGDocument.h */,
-				10EBA89E232B8D6C0067B1CF /* SVGHelperUtilities.m */,
-				10EBA89F232B8D6C0067B1CF /* SVGTextPositioningElement_Mutable.h */,
-				10EBA8A0232B8D6C0067B1CF /* SVGTextContentElement.m */,
-				10EBA8A1232B8D6C0067B1CF /* SVGAngle.h */,
-				10EBA8A2232B8D6C0067B1CF /* SVGUseElement.h */,
-				10EBA8A3232B8D6C0067B1CF /* SVGTransform.h */,
-				10EBA8A4232B8D6C0067B1CF /* SVGLength.h */,
-				10EBA8A5232B8D6C0067B1CF /* SVGClipPathElement.m */,
-				10EBA8A6232B8D6C0067B1CF /* SVGPoint.m */,
-				10EBA8A7232B8D6C0067B1CF /* SVGTransformable.h */,
-				10EBA8A8232B8D6C0067B1CF /* SVGDefsElement.h */,
-				10EBA8A9232B8D6C0067B1CF /* SVGRect.m */,
-				10EBA8AA232B8D6C0067B1CF /* SVGTextPositioningElement.h */,
-				10EBA8AB232B8D6C0067B1CF /* SVGElementInstanceList.h */,
-				10EBA8AC232B8D6C0067B1CF /* SVGGElement.h */,
-				10EBA8AD232B8D6C0067B1CF /* SVGUnitTypes.h */,
-				10EBA8AE232B8D6C0067B1CF /* SVGElementInstanceList_Internal.h */,
-				10EBA8AF232B8D6C0067B1CF /* SVGMatrix.h */,
-				10EBA8B0232B8D6C0067B1CF /* SVGElementInstance.h */,
-				10EBA8B1232B8D6C0067B1CF /* SVGAnimatedPreserveAspectRatio.m */,
-				10EBA8B2232B8D6C0067B1CF /* SVGSVGElement_Mutable.h */,
-				10EBA8B3232B8D6C0067B1CF /* SVGAngle.m */,
-				10EBA8B4232B8D6C0067B1CF /* SVGTextContentElement.h */,
-				10EBA8B5232B8D6C0067B1CF /* SVGHelperUtilities.h */,
-				10EBA8B6232B8D6C0067B1CF /* SVGPreserveAspectRatio.h */,
-				10EBA8B7232B8D6C0067B1CF /* SVGDocument.m */,
-				10EBA8B8232B8D6C0067B1CF /* SVGPoint.h */,
-				10EBA8B9232B8D6C0067B1CF /* SVGClipPathElement.h */,
-				10EBA8BA232B8D6C0067B1CF /* SVGLength.m */,
-				10EBA8BB232B8D6C0067B1CF /* SVGStylable.h */,
-				10EBA8BC232B8D6C0067B1CF /* SVGElementInstance_Mutable.h */,
-				10EBA8BD232B8D6C0067B1CF /* SVGTransform.m */,
-				10EBA8BE232B8D6C0067B1CF /* SVGFitToViewBox.h */,
-				10EBA8BF232B8D6C0067B1CF /* SVGUseElement.m */,
-			);
-			path = "SVG-DOM";
-			sourceTree = "<group>";
-		};
-		10EBA8C0232B8D6C0067B1CF /* Foundation additions */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA8C1232B8D6C0067B1CF /* NSCharacterSet+SVGKExtensions.h */,
-				10EBA8C2232B8D6C0067B1CF /* NSData+NSInputStream.h */,
-				10EBA8C3232B8D6C0067B1CF /* NSData+NSInputStream.m */,
-				10EBA8C4232B8D6C0067B1CF /* NSCharacterSet+SVGKExtensions.m */,
-			);
-			path = "Foundation additions";
-			sourceTree = "<group>";
-		};
-		10EBA8C5232B8D6C0067B1CF /* Parsers */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA8C6232B8D6C0067B1CF /* SVGKParserExtension.h */,
-				10EBA8C7232B8D6C0067B1CF /* SVGKPointsAndPathsParser.h */,
-				10EBA8C8232B8D6C0067B1CF /* SVGKParser.m */,
-				10EBA8C9232B8D6C0067B1CF /* SVGKParseResult.h */,
-				10EBA8CA232B8D6C0067B1CF /* SVGKPointsAndPathsParser.m */,
-				10EBA8CB232B8D6C0067B1CF /* SVGKParser.h */,
-				10EBA8CC232B8D6C0067B1CF /* SVGKParseResult.m */,
-				10EBA8CD232B8D6C0067B1CF /* Parser Extensions */,
-			);
-			path = Parsers;
-			sourceTree = "<group>";
-		};
-		10EBA8CD232B8D6C0067B1CF /* Parser Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA8CE232B8D6C0067B1CF /* SVGKParserStyles.h */,
-				10EBA8CF232B8D6C0067B1CF /* SVGKParserDOM.h */,
-				10EBA8D0232B8D6C0067B1CF /* SVGKParserGradient.h */,
-				10EBA8D1232B8D6C0067B1CF /* SVGKParserDefsAndUse.m */,
-				10EBA8D2232B8D6C0067B1CF /* SVGKParserPatternsAndGradients.h */,
-				10EBA8D3232B8D6C0067B1CF /* SVGKParserSVG.h */,
-				10EBA8D4232B8D6C0067B1CF /* SVGKParserStyles.m */,
-				10EBA8D5232B8D6C0067B1CF /* SVGKParserGradient.m */,
-				10EBA8D6232B8D6C0067B1CF /* SVGKParserDOM.m */,
-				10EBA8D7232B8D6C0067B1CF /* SVGKParserSVG.m */,
-				10EBA8D8232B8D6C0067B1CF /* SVGKParserPatternsAndGradients.m */,
-				10EBA8D9232B8D6C0067B1CF /* SVGKParserDefsAndUse.h */,
-			);
-			path = "Parser Extensions";
-			sourceTree = "<group>";
-		};
-		10EBA8DC232B8D6C0067B1CF /* Exporters */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA8DD232B8D6C0067B1CF /* SVGKImage+CGContext.h */,
-				10EBA8DE232B8D6C0067B1CF /* SVGKExporterNSData.h */,
-				10EBA8DF232B8D6C0067B1CF /* SVGKExporterUIImage.h */,
-				10EBA8E0232B8D6C0067B1CF /* SVGKExporterNSData.m */,
-				10EBA8E1232B8D6C0067B1CF /* SVGKImage+CGContext.m */,
-				10EBA8E2232B8D6C0067B1CF /* SVGKExporterUIImage.m */,
-			);
-			path = Exporters;
-			sourceTree = "<group>";
-		};
-		10EBA8E3232B8D6C0067B1CF /* Utils */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA8E4232B8D6C0067B1CF /* SVGKPattern.h */,
-				10EBA8E5232B8D6C0067B1CF /* SVGUtils.m */,
-				10EBA8E6232B8D6C0067B1CF /* SVGKPattern.m */,
-				10EBA8E7232B8D6C0067B1CF /* SVGUtils.h */,
-			);
-			path = Utils;
-			sourceTree = "<group>";
-		};
-		10EBA8E9232B8D6C0067B1CF /* UIKit additions */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA8EA232B8D6C0067B1CF /* SVGKFastImageView.m */,
-				10EBA8EB232B8D6C0067B1CF /* SVGKLayeredImageView.m */,
-				10EBA8EC232B8D6C0067B1CF /* SVGKImageView.h */,
-				10EBA8ED232B8D6C0067B1CF /* SVGKFastImageView.h */,
-				10EBA8EE232B8D6C0067B1CF /* SVGKLayeredImageView.h */,
-				10EBA8EF232B8D6C0067B1CF /* SVGKImageView.m */,
-			);
-			path = "UIKit additions";
-			sourceTree = "<group>";
-		};
-		10EBA8F0232B8D6C0067B1CF /* QuartzCore additions */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA8F1232B8D6C0067B1CF /* SVGKLayer.h */,
-				10EBA8F2232B8D6C0067B1CF /* SVGGradientLayer.m */,
-				10EBA8F3232B8D6C0067B1CF /* CALayerWithClipRender.m */,
-				10EBA8F4232B8D6C0067B1CF /* CALayer+RecursiveClone.h */,
-				10EBA8F5232B8D6C0067B1CF /* CAShapeLayerWithClipRender.m */,
-				10EBA8F6232B8D6C0067B1CF /* CAShapeLayerWithHitTest.h */,
-				10EBA8F7232B8D6C0067B1CF /* CALayerWithChildHitTest.h */,
-				10EBA8F8232B8D6C0067B1CF /* CGPathAdditions.m */,
-				10EBA8F9232B8D6C0067B1CF /* SVGKLayer.m */,
-				10EBA8FA232B8D6C0067B1CF /* SVGGradientLayer.h */,
-				10EBA8FB232B8D6C0067B1CF /* CAShapeLayerWithClipRender.h */,
-				10EBA8FC232B8D6C0067B1CF /* CALayer+RecursiveClone.m */,
-				10EBA8FD232B8D6C0067B1CF /* CALayerWithClipRender.h */,
-				10EBA8FE232B8D6C0067B1CF /* CALayerWithChildHitTest.m */,
-				10EBA8FF232B8D6C0067B1CF /* CAShapeLayerWithHitTest.m */,
-				10EBA900232B8D6C0067B1CF /* CGPathAdditions.h */,
-			);
-			path = "QuartzCore additions";
-			sourceTree = "<group>";
-		};
-		10EBA901232B8D6C0067B1CF /* Sources */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA902232B8D6C0067B1CF /* SVGKSourceString.m */,
-				10EBA903232B8D6C0067B1CF /* SVGKSourceURL.h */,
-				10EBA904232B8D6C0067B1CF /* SVGKSourceLocalFile.h */,
-				10EBA905232B8D6C0067B1CF /* SVGKSourceNSData.h */,
-				10EBA906232B8D6C0067B1CF /* SVGKSourceString.h */,
-				10EBA907232B8D6C0067B1CF /* SVGKSourceNSData.m */,
-				10EBA908232B8D6C0067B1CF /* SVGKSourceURL.m */,
-				10EBA909232B8D6C0067B1CF /* SVGKSourceLocalFile.m */,
-			);
-			path = Sources;
-			sourceTree = "<group>";
-		};
-		10EBA90F232B8D6C0067B1CF /* SVGKitLibrary */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA910232B8D6C0067B1CF /* SVGKit-iOS */,
-			);
-			path = SVGKitLibrary;
-			sourceTree = "<group>";
-		};
-		10EBA910232B8D6C0067B1CF /* SVGKit-iOS */ = {
-			isa = PBXGroup;
-			children = (
-				10EBA911232B8D6C0067B1CF /* SVGKit.modulemap */,
-				10EBA912232B8D6C0067B1CF /* SVGKit-Prefix.pch */,
-			);
-			path = "SVGKit-iOS";
-			sourceTree = "<group>";
-		};
-		10EBAA0F232B8DFE0067B1CF /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Headers;
-			path = Pods/Headers;
-			sourceTree = "<group>";
-		};
-		5A003FDA27EAA68E76E22F0D /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				10EBAA0F232B8DFE0067B1CF /* Headers */,
-				10EBA818232B8D6C0067B1CF /* SVGKit */,
-				10EBA71B232B8D490067B1CF /* SVGKit-Prefix.pch */,
-				7D36DB789CB3CC05F77A249B /* Pods_Booket.framework */,
-				D6BB8B83CFB850F5EE47D277 /* Pods_BooketTests.framework */,
-				EF89EA9DEF80F11272E5A97A /* Pods_BooketUITests.framework */,
+				7074F5B8232B973A0051A659 /* SVGKit */,
+				7074F5B6232B972B0051A659 /* SwiftSVG */,
+				7074F5B4232B97190051A659 /* Pods */,
+				F34BE7678DC5492B62B55C77 /* Pods_Booket.framework */,
+				498676C7FCE39604924F09C5 /* libPods-BooketTests.a */,
+				987F5AEC77C43A5AC2E26C66 /* libPods-BooketUITests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		710C5D80A26F124672D0DF16 /* Pods */ = {
+		DC9F5E5EB7920158EAE3A688 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B80901F0557706D93E7424EF /* Pods-Booket.debug.xcconfig */,
-				1F7EEC79C16187C226D91D93 /* Pods-Booket.release.xcconfig */,
-				8C9C7E6D77ED72A4867AB4DB /* Pods-BooketTests.debug.xcconfig */,
-				84AEB530648A022F0D168CB6 /* Pods-BooketTests.release.xcconfig */,
-				048365680BA0EA2991D6A52A /* Pods-BooketUITests.debug.xcconfig */,
-				F23ED761B907F99B4947F398 /* Pods-BooketUITests.release.xcconfig */,
+				6BFE957B3050577AC3358E06 /* Pods-Booket.debug.xcconfig */,
+				B27CF9DE5EE1A4B99AE7A703 /* Pods-Booket.release.xcconfig */,
+				A94719613AFDA711341A8A20 /* Pods-BooketTests.debug.xcconfig */,
+				FE09BC5AD18312F85699C77D /* Pods-BooketTests.release.xcconfig */,
+				A7B26CB4141A1A36A3333C0D /* Pods-BooketUITests.debug.xcconfig */,
+				9C2CFF7258DB38A3877EFBAC /* Pods-BooketUITests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
+/* Begin PBXHeadersBuildPhase section */
+		702C884B2330C1B500C915FB /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
 /* Begin PBXNativeTarget section */
-		10529E5E23014949008D6242 /* Booket */ = {
+		702B5A9D22F9DEB3007F83F2 /* Booket */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 10529E8923014949008D6242 /* Build configuration list for PBXNativeTarget "Booket" */;
+			buildConfigurationList = 702B5AC622F9DEB3007F83F2 /* Build configuration list for PBXNativeTarget "Booket" */;
 			buildPhases = (
-				D48FF74C5AD27AE9202B850A /* [CP] Check Pods Manifest.lock */,
-				10529E5B23014949008D6242 /* Sources */,
-				10529E5C23014949008D6242 /* Frameworks */,
-				10529E5D23014949008D6242 /* Resources */,
-				CC47DB0217D56F5798AD5C71 /* [CP] Embed Pods Frameworks */,
+				F66B7262EB0A03C3F64F3609 /* [CP] Check Pods Manifest.lock */,
+				702B5A9A22F9DEB3007F83F2 /* Sources */,
+				702B5A9B22F9DEB3007F83F2 /* Frameworks */,
+				702B5A9C22F9DEB3007F83F2 /* Resources */,
+				2436B4F8365D36F6238A311B /* [CP] Embed Pods Frameworks */,
+				702C884B2330C1B500C915FB /* Headers */,
 			);
 			buildRules = (
 			);
@@ -810,74 +208,74 @@
 			);
 			name = Booket;
 			productName = Booket;
-			productReference = 10529E5F23014949008D6242 /* Booket.app */;
+			productReference = 702B5A9E22F9DEB3007F83F2 /* Booket.app */;
 			productType = "com.apple.product-type.application";
 		};
-		10529E7423014949008D6242 /* BooketTests */ = {
+		702B5AB122F9DEB3007F83F2 /* BooketTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 10529E8C23014949008D6242 /* Build configuration list for PBXNativeTarget "BooketTests" */;
+			buildConfigurationList = 702B5AC922F9DEB3007F83F2 /* Build configuration list for PBXNativeTarget "BooketTests" */;
 			buildPhases = (
-				7884E6238E590CBE362F950A /* [CP] Check Pods Manifest.lock */,
-				10529E7123014949008D6242 /* Sources */,
-				10529E7223014949008D6242 /* Frameworks */,
-				10529E7323014949008D6242 /* Resources */,
+				65605A7E30F05E068F72F0F3 /* [CP] Check Pods Manifest.lock */,
+				702B5AAE22F9DEB3007F83F2 /* Sources */,
+				702B5AAF22F9DEB3007F83F2 /* Frameworks */,
+				702B5AB022F9DEB3007F83F2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				10529E7723014949008D6242 /* PBXTargetDependency */,
+				702B5AB422F9DEB3007F83F2 /* PBXTargetDependency */,
 			);
 			name = BooketTests;
 			productName = BooketTests;
-			productReference = 10529E7523014949008D6242 /* BooketTests.xctest */;
+			productReference = 702B5AB222F9DEB3007F83F2 /* BooketTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		10529E7F23014949008D6242 /* BooketUITests */ = {
+		702B5ABC22F9DEB3007F83F2 /* BooketUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 10529E8F23014949008D6242 /* Build configuration list for PBXNativeTarget "BooketUITests" */;
+			buildConfigurationList = 702B5ACC22F9DEB3007F83F2 /* Build configuration list for PBXNativeTarget "BooketUITests" */;
 			buildPhases = (
-				1F282E027741B5E33826B32A /* [CP] Check Pods Manifest.lock */,
-				10529E7C23014949008D6242 /* Sources */,
-				10529E7D23014949008D6242 /* Frameworks */,
-				10529E7E23014949008D6242 /* Resources */,
+				B172E96B39BBC0C602CC544B /* [CP] Check Pods Manifest.lock */,
+				702B5AB922F9DEB3007F83F2 /* Sources */,
+				702B5ABA22F9DEB3007F83F2 /* Frameworks */,
+				702B5ABB22F9DEB3007F83F2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				10529E8223014949008D6242 /* PBXTargetDependency */,
+				702B5ABF22F9DEB3007F83F2 /* PBXTargetDependency */,
 			);
 			name = BooketUITests;
 			productName = BooketUITests;
-			productReference = 10529E8023014949008D6242 /* BooketUITests.xctest */;
+			productReference = 702B5ABD22F9DEB3007F83F2 /* BooketUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		10529E5723014949008D6242 /* Project object */ = {
+		702B5A9622F9DEB2007F83F2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0910;
 				LastUpgradeCheck = 0910;
-				ORGANIZATIONNAME = Booket;
+				ORGANIZATIONNAME = "西村 友佑";
 				TargetAttributes = {
-					10529E5E23014949008D6242 = {
+					702B5A9D22F9DEB3007F83F2 = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
 					};
-					10529E7423014949008D6242 = {
+					702B5AB122F9DEB3007F83F2 = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 10529E5E23014949008D6242;
+						TestTargetID = 702B5A9D22F9DEB3007F83F2;
 					};
-					10529E7F23014949008D6242 = {
+					702B5ABC22F9DEB3007F83F2 = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 10529E5E23014949008D6242;
+						TestTargetID = 702B5A9D22F9DEB3007F83F2;
 					};
 				};
 			};
-			buildConfigurationList = 10529E5A23014949008D6242 /* Build configuration list for PBXProject "Booket" */;
+			buildConfigurationList = 702B5A9922F9DEB2007F83F2 /* Build configuration list for PBXProject "Booket" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -885,38 +283,38 @@
 				en,
 				Base,
 			);
-			mainGroup = 10529E5623014949008D6242;
-			productRefGroup = 10529E6023014949008D6242 /* Products */;
+			mainGroup = 702B5A9522F9DEB2007F83F2;
+			productRefGroup = 702B5A9F22F9DEB3007F83F2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				10529E5E23014949008D6242 /* Booket */,
-				10529E7423014949008D6242 /* BooketTests */,
-				10529E7F23014949008D6242 /* BooketUITests */,
+				702B5A9D22F9DEB3007F83F2 /* Booket */,
+				702B5AB122F9DEB3007F83F2 /* BooketTests */,
+				702B5ABC22F9DEB3007F83F2 /* BooketUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		10529E5D23014949008D6242 /* Resources */ = {
+		702B5A9C22F9DEB3007F83F2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10529E6F23014949008D6242 /* LaunchScreen.storyboard in Resources */,
-				10529E6C23014949008D6242 /* Assets.xcassets in Resources */,
-				10529E6A23014949008D6242 /* Main.storyboard in Resources */,
-				101CEAD32320F1750081D9BD /* HomeView.svg in Resources */,
+				702C884A2330BADC00C915FB /* SVGKit-3.x in Resources */,
+				702B5AAC22F9DEB3007F83F2 /* LaunchScreen.storyboard in Resources */,
+				702B5AA922F9DEB3007F83F2 /* Assets.xcassets in Resources */,
+				702B5AA722F9DEB3007F83F2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		10529E7323014949008D6242 /* Resources */ = {
+		702B5AB022F9DEB3007F83F2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		10529E7E23014949008D6242 /* Resources */ = {
+		702B5ABB22F9DEB3007F83F2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -926,25 +324,31 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1F282E027741B5E33826B32A /* [CP] Check Pods Manifest.lock */ = {
+		2436B4F8365D36F6238A311B /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
+				"${PODS_ROOT}/Target Support Files/Pods-Booket/Pods-Booket-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/CocoaLumberjack/CocoaLumberjack.framework",
+				"${BUILT_PRODUCTS_DIR}/SVGKit/SVGKit.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftSVG/SwiftSVG.framework",
+				"${BUILT_PRODUCTS_DIR}/XLPagerTabStrip/XLPagerTabStrip.framework",
 			);
-			name = "[CP] Check Pods Manifest.lock";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-BooketUITests-checkManifestLockResult.txt",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CocoaLumberjack.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVGKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftSVG.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/XLPagerTabStrip.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Booket/Pods-Booket-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		7884E6238E590CBE362F950A /* [CP] Check Pods Manifest.lock */ = {
+		65605A7E30F05E068F72F0F3 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -962,29 +366,25 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		CC47DB0217D56F5798AD5C71 /* [CP] Embed Pods Frameworks */ = {
+		B172E96B39BBC0C602CC544B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Booket/Pods-Booket-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/CocoaLumberjack/CocoaLumberjack.framework",
-				"${BUILT_PRODUCTS_DIR}/SVGKit/SVGKit.framework",
-				"${BUILT_PRODUCTS_DIR}/XLPagerTabStrip/XLPagerTabStrip.framework",
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CocoaLumberjack.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVGKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/XLPagerTabStrip.framework",
+				"$(DERIVED_FILE_DIR)/Pods-BooketUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Booket/Pods-Booket-frameworks.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D48FF74C5AD27AE9202B850A /* [CP] Check Pods Manifest.lock */ = {
+		F66B7262EB0A03C3F64F3609 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1005,60 +405,59 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		10529E5B23014949008D6242 /* Sources */ = {
+		702B5A9A22F9DEB3007F83F2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10529E6723014949008D6242 /* SecondViewController.swift in Sources */,
-				10529E6323014949008D6242 /* AppDelegate.swift in Sources */,
-				10529E6523014949008D6242 /* FirstViewController.swift in Sources */,
+				702B5AA422F9DEB3007F83F2 /* ViewController.swift in Sources */,
+				702B5AA222F9DEB3007F83F2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		10529E7123014949008D6242 /* Sources */ = {
+		702B5AAE22F9DEB3007F83F2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10529E7A23014949008D6242 /* BooketTests.swift in Sources */,
+				702B5AB722F9DEB3007F83F2 /* BooketTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		10529E7C23014949008D6242 /* Sources */ = {
+		702B5AB922F9DEB3007F83F2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10529E8523014949008D6242 /* BooketUITests.swift in Sources */,
+				702B5AC222F9DEB3007F83F2 /* BooketUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		10529E7723014949008D6242 /* PBXTargetDependency */ = {
+		702B5AB422F9DEB3007F83F2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 10529E5E23014949008D6242 /* Booket */;
-			targetProxy = 10529E7623014949008D6242 /* PBXContainerItemProxy */;
+			target = 702B5A9D22F9DEB3007F83F2 /* Booket */;
+			targetProxy = 702B5AB322F9DEB3007F83F2 /* PBXContainerItemProxy */;
 		};
-		10529E8223014949008D6242 /* PBXTargetDependency */ = {
+		702B5ABF22F9DEB3007F83F2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 10529E5E23014949008D6242 /* Booket */;
-			targetProxy = 10529E8123014949008D6242 /* PBXContainerItemProxy */;
+			target = 702B5A9D22F9DEB3007F83F2 /* Booket */;
+			targetProxy = 702B5ABE22F9DEB3007F83F2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		10529E6823014949008D6242 /* Main.storyboard */ = {
+		702B5AA522F9DEB3007F83F2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				10529E6923014949008D6242 /* Base */,
+				702B5AA622F9DEB3007F83F2 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		10529E6D23014949008D6242 /* LaunchScreen.storyboard */ = {
+		702B5AAA22F9DEB3007F83F2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				10529E6E23014949008D6242 /* Base */,
+				702B5AAB22F9DEB3007F83F2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -1066,7 +465,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		10529E8723014949008D6242 /* Debug */ = {
+		702B5AC422F9DEB3007F83F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1123,7 +522,7 @@
 			};
 			name = Debug;
 		};
-		10529E8823014949008D6242 /* Release */ = {
+		702B5AC522F9DEB3007F83F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1173,50 +572,49 @@
 			};
 			name = Release;
 		};
-		10529E8A23014949008D6242 /* Debug */ = {
+		702B5AC722F9DEB3007F83F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B80901F0557706D93E7424EF /* Pods-Booket.debug.xcconfig */;
+			baseConfigurationReference = 6BFE957B3050577AC3358E06 /* Pods-Booket.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = R62TX5UP7H;
+				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MyPrefixHeaderFile.pch\n";
 				INFOPLIST_FILE = Booket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Booket.Booket;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PRODUCT)Booket-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PRODUCT)Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		10529E8B23014949008D6242 /* Release */ = {
+		702B5AC822F9DEB3007F83F2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1F7EEC79C16187C226D91D93 /* Pods-Booket.release.xcconfig */;
+			baseConfigurationReference = B27CF9DE5EE1A4B99AE7A703 /* Pods-Booket.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = R62TX5UP7H;
+				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MyPrefixHeaderFile.pch\n";
 				INFOPLIST_FILE = Booket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Booket.Booket;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PRODUCT)Booket-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PRODUCT)Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		10529E8D23014949008D6242 /* Debug */ = {
+		702B5ACA22F9DEB3007F83F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8C9C7E6D77ED72A4867AB4DB /* Pods-BooketTests.debug.xcconfig */;
+			baseConfigurationReference = A94719613AFDA711341A8A20 /* Pods-BooketTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R62TX5UP7H;
 				INFOPLIST_FILE = BooketTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Booket.BooketTests;
@@ -1227,14 +625,13 @@
 			};
 			name = Debug;
 		};
-		10529E8E23014949008D6242 /* Release */ = {
+		702B5ACB22F9DEB3007F83F2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 84AEB530648A022F0D168CB6 /* Pods-BooketTests.release.xcconfig */;
+			baseConfigurationReference = FE09BC5AD18312F85699C77D /* Pods-BooketTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R62TX5UP7H;
 				INFOPLIST_FILE = BooketTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Booket.BooketTests;
@@ -1245,13 +642,12 @@
 			};
 			name = Release;
 		};
-		10529E9023014949008D6242 /* Debug */ = {
+		702B5ACD22F9DEB3007F83F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 048365680BA0EA2991D6A52A /* Pods-BooketUITests.debug.xcconfig */;
+			baseConfigurationReference = A7B26CB4141A1A36A3333C0D /* Pods-BooketUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R62TX5UP7H;
 				INFOPLIST_FILE = BooketUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Booket.BooketUITests;
@@ -1262,13 +658,12 @@
 			};
 			name = Debug;
 		};
-		10529E9123014949008D6242 /* Release */ = {
+		702B5ACE22F9DEB3007F83F2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F23ED761B907F99B4947F398 /* Pods-BooketUITests.release.xcconfig */;
+			baseConfigurationReference = 9C2CFF7258DB38A3877EFBAC /* Pods-BooketUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R62TX5UP7H;
 				INFOPLIST_FILE = BooketUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Booket.BooketUITests;
@@ -1282,43 +677,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		10529E5A23014949008D6242 /* Build configuration list for PBXProject "Booket" */ = {
+		702B5A9922F9DEB2007F83F2 /* Build configuration list for PBXProject "Booket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				10529E8723014949008D6242 /* Debug */,
-				10529E8823014949008D6242 /* Release */,
+				702B5AC422F9DEB3007F83F2 /* Debug */,
+				702B5AC522F9DEB3007F83F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		10529E8923014949008D6242 /* Build configuration list for PBXNativeTarget "Booket" */ = {
+		702B5AC622F9DEB3007F83F2 /* Build configuration list for PBXNativeTarget "Booket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				10529E8A23014949008D6242 /* Debug */,
-				10529E8B23014949008D6242 /* Release */,
+				702B5AC722F9DEB3007F83F2 /* Debug */,
+				702B5AC822F9DEB3007F83F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		10529E8C23014949008D6242 /* Build configuration list for PBXNativeTarget "BooketTests" */ = {
+		702B5AC922F9DEB3007F83F2 /* Build configuration list for PBXNativeTarget "BooketTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				10529E8D23014949008D6242 /* Debug */,
-				10529E8E23014949008D6242 /* Release */,
+				702B5ACA22F9DEB3007F83F2 /* Debug */,
+				702B5ACB22F9DEB3007F83F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		10529E8F23014949008D6242 /* Build configuration list for PBXNativeTarget "BooketUITests" */ = {
+		702B5ACC22F9DEB3007F83F2 /* Build configuration list for PBXNativeTarget "BooketUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				10529E9023014949008D6242 /* Debug */,
-				10529E9123014949008D6242 /* Release */,
+				702B5ACD22F9DEB3007F83F2 /* Debug */,
+				702B5ACE22F9DEB3007F83F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 10529E5723014949008D6242 /* Project object */;
+	rootObject = 702B5A9622F9DEB2007F83F2 /* Project object */;
 }

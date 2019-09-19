@@ -33,6 +33,7 @@ FOUNDATION_EXPORT double SVGKitFramework_VersionNumber;
 FOUNDATION_EXPORT const unsigned char SVGKitFramework_VersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SVGKitFramework_iOS/PublicHeader.h>
+#import <SVGKitFramework_iOS/PublicHeader.h>
 
 // Core DOM
 #import "AppleSucksDOMImplementation.h"
@@ -155,6 +156,7 @@ FOUNDATION_EXPORT const unsigned char SVGKitFramework_VersionString[];
 #import "SVGKPointsAndPathsParser.h"
 #import "CALayer+RecursiveClone.h"
 #import "SVGGradientLayer.h"
+#import "SVGTextLayer.h"
 #import "CALayerWithChildHitTest.h"
 #import "CAShapeLayerWithHitTest.h"
 #import "CGPathAdditions.h"
@@ -172,3 +174,4 @@ FOUNDATION_EXPORT const unsigned char SVGKitFramework_VersionString[];
 #endif
 #import "NSData+NSInputStream.h"
 #import "SVGKSourceNSData.h"
+#import "SVGKInlineResource.h"

@@ -1,0 +1,677 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="736" viewBox="0 0 414 736">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="414" height="216" fill="none"/>
+    </clipPath>
+    <filter id="keycap" x="322.035" y="690" width="86.965" height="43.059" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-2" x="157.736" y="690" width="142.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-3" x="108.86" y="690" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-4" x="5" y="690" width="42" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-5" x="52" y="690" width="42" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-6" x="367" y="637" width="42" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-7" x="315.462" y="637" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-7"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-8" x="274.141" y="637" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-9" x="232.821" y="637" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-10" x="191.5" y="637" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-10"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-11" x="150.18" y="637" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-12" x="108.86" y="637" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-12"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-13" x="67.539" y="637" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-13"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-14" x="5" y="637" width="42" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-14"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-15" x="359" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-15"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-16" x="322" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-16"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-17" x="275.25" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-17"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-18" x="233.375" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-18"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-19" x="191.5" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-19"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-20" x="149.625" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-20"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-21" x="107.75" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-21"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-22" x="61" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-22"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-23" x="24" y="584" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-23"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-24" x="378" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-24"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-25" x="340" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-25"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-26" x="294.242" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-26"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-27" x="252.922" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-27"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-28" x="211.602" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-28"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-29" x="170.281" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-29"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-30" x="128.961" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-30"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-31" x="87.641" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-31"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-32" x="42" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-32"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-32"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="keycap-33" x="5" y="530" width="31.008" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-33"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-33"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_121" x="-30" y="-20" width="474" height="132" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-34"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-34"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_139" x="-44" y="52" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-35"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-35"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect width="379.444" height="42.729" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="160" height="100" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5f6772"/>
+      <stop offset="1" stop-color="#4a6c80" stop-opacity="0.765"/>
+    </linearGradient>
+    <filter id="楕円形_4" x="416" y="546" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-36"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur-36"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#71b280"/>
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#c9c9c9"/>
+    </linearGradient>
+    <filter id="楕円形_5" x="396" y="546" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-37"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur-37"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="楕円形_6" x="376" y="546" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-38"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur-38"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="楕円形_7" x="356" y="546" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-39"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur-39"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_1118" x="-44" y="95" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-40"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-40"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_1119" x="-44" y="138" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-41"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-41"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_1120" x="-42" y="181" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-42"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-42"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <rect width="39.803" height="39.803" fill="none"/>
+    </clipPath>
+    <filter id="長方形_1121" x="-42" y="260" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-43"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-43"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_1122" x="-44" y="302" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-44"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-44"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_1123" x="-44" y="345" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-45"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-45"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_1124" x="-41" y="388" width="503" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-46"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-46"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-SEARCH_VIEW">
+      <rect width="414" height="736"/>
+    </clipPath>
+  </defs>
+  <g id="SEARCH_VIEW" data-name="SEARCH VIEW" clip-path="url(#clip-SEARCH_VIEW)">
+    <rect width="414" height="736" fill="#fff"/>
+    <g id="Keyboard_Light" data-name="Keyboard Light" transform="translate(0 34)">
+      <rect id="Screen_BG" data-name="Screen BG" width="414" height="702" fill="#fff"/>
+      <g id="Keyboard_Alphabetic" data-name="Keyboard Alphabetic" transform="translate(0 486)" clip-path="url(#clip-path)">
+        <rect id="background" width="414" height="216" fill="rgba(210,213,219,0.9)"/>
+        <g id="row" transform="translate(5 170)">
+          <g id="key" transform="translate(317 0)">
+            <g transform="matrix(1, 0, 0, 1, -322, -690)" filter="url(#keycap)">
+              <path id="keycap-34" data-name="keycap" d="M86.954,36.515a9.9,9.9,0,0,1-.126,1.459,4.984,4.984,0,0,1-.452,1.388,4.667,4.667,0,0,1-.848,1.181,4.6,4.6,0,0,1-1.168.859,4.835,4.835,0,0,1-1.371.457,9.442,9.442,0,0,1-1.443.128c-.221.007-.442.009-.663.011H80.1l-70.214.059h-3.8c-.221,0-.442,0-.663-.011a9.442,9.442,0,0,1-1.443-.128,4.835,4.835,0,0,1-1.371-.457A4.6,4.6,0,0,1,1.439,40.6,4.667,4.667,0,0,1,.59,39.421a4.984,4.984,0,0,1-.452-1.388,9.834,9.834,0,0,1-.126-1.459Q0,36.239,0,35.9c0-.265,0-.531,0-.8V7.01c0-.265,0-.531,0-.8q0-.335.01-.671A9.835,9.835,0,0,1,.138,4.084,4.973,4.973,0,0,1,.59,2.7a4.658,4.658,0,0,1,.848-1.182A4.6,4.6,0,0,1,2.606.656,4.836,4.836,0,0,1,3.978.2,9.569,9.569,0,0,1,5.42.07c.22-.005.442-.008.663-.01h3.8L79.88,0H80.1l.787,0q.331,0,.663.009A9.569,9.569,0,0,1,82.988.14,4.836,4.836,0,0,1,84.359.6a4.6,4.6,0,0,1,1.168.859,4.659,4.659,0,0,1,.848,1.182,4.973,4.973,0,0,1,.452,1.388,9.9,9.9,0,0,1,.126,1.459q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q86.962,36.18,86.954,36.515Z" transform="translate(322.03 690)" fill="rgba(4,4,15,0.2)"/>
+            </g>
+            <text id="key_label" data-name="key label" transform="translate(0 11)" font-size="16" font-family="Helvetica" letter-spacing="0em"><tspan x="22.614" y="12">return</tspan></text>
+          </g>
+          <g id="spacebar" transform="translate(152.736)">
+            <g transform="matrix(1, 0, 0, 1, -157.74, -690)" filter="url(#keycap-2)">
+              <path id="keycap-35" data-name="keycap" d="M142,36.515a9.94,9.94,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H135.165l.784,0q.33,0,.66.009a9.5,9.5,0,0,1,1.437.129A4.8,4.8,0,0,1,139.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,142,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q142,36.18,142,36.515Z" transform="translate(157.74 690)" fill="#fefefe"/>
+            </g>
+          </g>
+          <g id="key-2" data-name="key" transform="translate(103.86)">
+            <g transform="matrix(1, 0, 0, 1, -108.86, -690)" filter="url(#keycap-3)">
+              <path id="keycap-36" data-name="keycap" d="M31.006,35.845q0,.335-.01.671a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8" transform="translate(108.86 690)" fill="#fefefe"/>
+            </g>
+            <path id="microophone_glyph" data-name="microophone glyph" d="M9,20H2V19H5V15.974A5.4,5.4,0,0,1,.285,12.025a7.649,7.649,0,0,1-.253-1.651C0,9.8,0,9.212,0,8.645V7H1V8.654c0,.542,0,1.1.031,1.662a6.67,6.67,0,0,0,.217,1.439,4.409,4.409,0,0,0,8.5,0,6.745,6.745,0,0,0,.216-1.439C10,9.778,10,9.24,10,8.672V7h1V8.719c0,.543,0,1.1-.032,1.655a7.631,7.631,0,0,1-.252,1.651A5.4,5.4,0,0,1,6,15.974V19H9v1ZM5.5,14A3.444,3.444,0,0,1,2.182,11.47a4.855,4.855,0,0,1-.161-1.05C2,10.042,2,9.658,2,9.286V4.714c0-.371,0-.755.021-1.134a4.872,4.872,0,0,1,.161-1.05A3.438,3.438,0,0,1,3.886.4a3.4,3.4,0,0,1,.5-.215l.007,0,.007,0a3.445,3.445,0,0,1,2.2,0l.012.005a3.421,3.421,0,0,1,.5.216,3.428,3.428,0,0,1,1.7,2.128,4.872,4.872,0,0,1,.161,1.05C9,3.946,9,4.318,9,4.678V9.322c0,.36,0,.732-.021,1.1a4.855,4.855,0,0,1-.161,1.05A3.442,3.442,0,0,1,5.5,14Zm0-13a2.43,2.43,0,0,0-.726.11l-.065.023a2.49,2.49,0,0,0-.353.151A2.4,2.4,0,0,0,4.02,1.5a2.443,2.443,0,0,0-.876,1.3,3.921,3.921,0,0,0-.125.838C3,3.971,3,4.3,3,4.671V9.329c0,.367,0,.7.019,1.033a3.846,3.846,0,0,0,.126.839,2.44,2.44,0,0,0,4.709,0,3.863,3.863,0,0,0,.126-.839C8,10.032,8,9.7,8,9.373V4.628c0-.325,0-.661-.019-.99A3.938,3.938,0,0,0,7.855,2.8,2.442,2.442,0,0,0,6.98,1.5a2.579,2.579,0,0,0-.335-.215,2.428,2.428,0,0,0-.348-.15l-.07-.024A2.446,2.446,0,0,0,5.5,1Z" transform="translate(10 11)"/>
+          </g>
+          <g id="key-3" data-name="key" transform="translate(0 0)">
+            <g transform="matrix(1, 0, 0, 1, -5, -690)" filter="url(#keycap-4)">
+              <path id="keycap-37" data-name="keycap" d="M41.989,36.515a9.9,9.9,0,0,1-.126,1.459,4.984,4.984,0,0,1-.452,1.388,4.667,4.667,0,0,1-.848,1.181,4.6,4.6,0,0,1-1.168.859,4.835,4.835,0,0,1-1.371.457,9.442,9.442,0,0,1-1.443.128c-.221.007-.442.009-.663.011H6.083c-.221,0-.442,0-.663-.011a9.442,9.442,0,0,1-1.443-.128A4.835,4.835,0,0,1,2.606,41.4a4.6,4.6,0,0,1-1.168-.859A4.667,4.667,0,0,1,.59,39.362a4.984,4.984,0,0,1-.452-1.388,9.834,9.834,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.835,9.835,0,0,1,.138,4.025,4.973,4.973,0,0,1,.59,2.637a4.658,4.658,0,0,1,.848-1.182A4.6,4.6,0,0,1,2.606.6,4.836,4.836,0,0,1,3.978.14,9.569,9.569,0,0,1,5.42.011C5.641.005,5.862,0,6.083,0L6.87,0H35.131l.787,0q.331,0,.663.009A9.569,9.569,0,0,1,38.023.14,4.836,4.836,0,0,1,39.394.6a4.6,4.6,0,0,1,1.168.859,4.658,4.658,0,0,1,.848,1.182,4.973,4.973,0,0,1,.452,1.388,9.9,9.9,0,0,1,.126,1.459q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q42,36.18,41.989,36.515Z" transform="translate(5 690)" fill="rgba(4,4,15,0.2)"/>
+            </g>
+            <text id="key_label-2" data-name="key label" transform="translate(0 13)" font-size="16" font-family="Helvetica" letter-spacing="0em"><tspan x="7.657" y="12">123</tspan></text>
+          </g>
+          <g id="key-4" data-name="key" transform="translate(47 0)">
+            <g transform="matrix(1, 0, 0, 1, -52, -690)" filter="url(#keycap-5)">
+              <path id="keycap-38" data-name="keycap" d="M41.989,36.515a9.9,9.9,0,0,1-.126,1.459,4.984,4.984,0,0,1-.452,1.388,4.667,4.667,0,0,1-.848,1.181,4.6,4.6,0,0,1-1.168.859,4.835,4.835,0,0,1-1.371.457,9.442,9.442,0,0,1-1.443.128c-.221.007-.442.009-.663.011H6.083c-.221,0-.442,0-.663-.011a9.442,9.442,0,0,1-1.443-.128A4.835,4.835,0,0,1,2.606,41.4a4.6,4.6,0,0,1-1.168-.859A4.667,4.667,0,0,1,.59,39.362a4.984,4.984,0,0,1-.452-1.388,9.834,9.834,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.835,9.835,0,0,1,.138,4.025,4.973,4.973,0,0,1,.59,2.637a4.658,4.658,0,0,1,.848-1.182A4.6,4.6,0,0,1,2.606.6,4.836,4.836,0,0,1,3.978.14,9.569,9.569,0,0,1,5.42.011C5.641.005,5.862,0,6.083,0L6.87,0H35.131l.787,0q.331,0,.663.009A9.569,9.569,0,0,1,38.023.14,4.836,4.836,0,0,1,39.394.6a4.6,4.6,0,0,1,1.168.859,4.658,4.658,0,0,1,.848,1.182,4.973,4.973,0,0,1,.452,1.388,9.9,9.9,0,0,1,.126,1.459q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q42,36.18,41.989,36.515Z" transform="translate(52 690)" fill="rgba(4,4,15,0.2)"/>
+            </g>
+            <path id="icon" d="M9.75,19.5A9.75,9.75,0,1,1,19.5,9.75,9.761,9.761,0,0,1,9.75,19.5ZM9.75,1A8.75,8.75,0,1,0,18.5,9.75,8.76,8.76,0,0,0,9.75,1Zm0,15.5a7.083,7.083,0,0,1-4.773-1.971A5.453,5.453,0,0,1,3,11c0-.6.284-.862.922-.862A9.985,9.985,0,0,1,5.8,10.45,17.989,17.989,0,0,0,9.75,11a18.315,18.315,0,0,0,3.946-.54,10.165,10.165,0,0,1,1.882-.306c.637,0,.922.261.922.846a5.471,5.471,0,0,1-1.977,3.508A7.224,7.224,0,0,1,9.75,16.5ZM5,11.1a.5.5,0,0,0-.5.5v.02a.5.5,0,0,0,.364.482l4.931,1.4,4.844-1.4A.5.5,0,0,0,15,11.623v-.017a.5.5,0,0,0-.5-.5.506.506,0,0,0-.1.009L9.863,12,5.091,11.11A.5.5,0,0,0,5,11.1ZM12.75,8A1.25,1.25,0,1,1,14,6.75,1.252,1.252,0,0,1,12.75,8Zm-6,0A1.25,1.25,0,1,1,8,6.75,1.252,1.252,0,0,1,6.75,8Z" transform="translate(11 11)"/>
+          </g>
+        </g>
+        <g id="row-2" data-name="row" transform="translate(5 117)">
+          <g id="key-5" data-name="key" transform="translate(362 0)">
+            <g transform="matrix(1, 0, 0, 1, -367, -637)" filter="url(#keycap-6)">
+              <path id="keycap-39" data-name="keycap" d="M41.989,36.515a9.9,9.9,0,0,1-.126,1.459,4.984,4.984,0,0,1-.452,1.388,4.667,4.667,0,0,1-.848,1.181,4.6,4.6,0,0,1-1.168.859,4.835,4.835,0,0,1-1.371.457,9.442,9.442,0,0,1-1.443.128c-.221.007-.442.009-.663.011H6.083c-.221,0-.442,0-.663-.011a9.442,9.442,0,0,1-1.443-.128A4.835,4.835,0,0,1,2.606,41.4a4.6,4.6,0,0,1-1.168-.859A4.667,4.667,0,0,1,.59,39.362a4.984,4.984,0,0,1-.452-1.388,9.834,9.834,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.835,9.835,0,0,1,.138,4.025,4.973,4.973,0,0,1,.59,2.637a4.658,4.658,0,0,1,.848-1.182A4.6,4.6,0,0,1,2.606.6,4.836,4.836,0,0,1,3.978.14,9.569,9.569,0,0,1,5.42.011C5.641.005,5.862,0,6.083,0L6.87,0H35.131l.787,0q.331,0,.663.009A9.569,9.569,0,0,1,38.023.14,4.836,4.836,0,0,1,39.394.6a4.6,4.6,0,0,1,1.168.859,4.658,4.658,0,0,1,.848,1.182,4.973,4.973,0,0,1,.452,1.388,9.9,9.9,0,0,1,.126,1.459q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q42,36.18,41.989,36.515Z" transform="translate(367 637)" fill="rgba(4,4,15,0.2)"/>
+            </g>
+            <g id="backspace" transform="translate(9 13)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+              <path d="M22,4.866c0-.185,0-.372,0-.557,0-.156,0-.313-.007-.469a6.856,6.856,0,0,0-.09-1.022,3.434,3.434,0,0,0-.32-.971A3.261,3.261,0,0,0,20.153.418,3.451,3.451,0,0,0,19.181.1,6.868,6.868,0,0,0,18.16.008C18,0,17.847,0,17.691,0H9A2.236,2.236,0,0,0,7.5.5L.114,7.727a.385.385,0,0,0,0,.547L7.5,15.5A2.233,2.233,0,0,0,9,16h8.692c.156,0,.313,0,.469-.007a6.8,6.8,0,0,0,1.022-.09,3.435,3.435,0,0,0,.971-.32,3.263,3.263,0,0,0,1.428-1.428,3.445,3.445,0,0,0,.32-.972,6.867,6.867,0,0,0,.09-1.021c0-.156.006-.313.007-.469,0-.186,0-.372,0-.557V4.866Z" stroke="none"/>
+              <path d="M 8.958069801330566 1.500001907348633 C 8.743888854980469 1.500001907348633 8.576101303100586 1.570655822753906 8.517001152038574 1.602863311767578 L 1.979206085205078 8.00034236907959 L 8.517186164855957 14.3980016708374 C 8.576045989990234 14.43014335632324 8.743251800537109 14.50071239471436 8.956430435180664 14.50071239471436 L 8.972740173339844 14.50057220458984 C 8.981490135192871 14.50042247772217 8.990250587463379 14.50034236907959 8.999000549316406 14.50034236907959 L 16.97999954223633 14.50034236907959 L 17.13299942016602 14.50034236907959 C 17.13665962219238 14.50034236907959 17.14031028747559 14.50034236907959 17.14397048950195 14.50034236907959 C 17.32314872741699 14.50034236907959 17.50276947021484 14.50033283233643 17.6809196472168 14.4993724822998 C 17.84860992431641 14.4983024597168 17.98850059509277 14.49622249603271 18.11992073059082 14.49286270141602 C 18.35123062133789 14.48676204681396 18.65080070495605 14.47363185882568 18.91601943969727 14.42602252960205 C 19.12931060791016 14.38766193389893 19.30550956726074 14.3305721282959 19.47207069396973 14.24555206298828 C 19.63804054260254 14.16107177734375 19.78815078735352 14.05214214324951 19.91934013366699 13.92068195343018 C 20.0509204864502 13.78910255432129 20.15975952148438 13.63937187194824 20.24406051635742 13.47323226928711 C 20.3290901184082 13.30637168884277 20.38648986816406 13.12974166870117 20.42460060119629 12.91779232025146 C 20.47125053405762 12.65796279907227 20.48464012145996 12.36844253540039 20.49148941040039 12.12301254272461 C 20.49514961242676 11.97970962524414 20.49656677246094 11.8347339630127 20.49803352355957 11.68137168884277 C 20.49901008605957 11.49887084960938 20.49900054931641 11.31684684753418 20.49900054931641 11.13434219360352 L 20.49900054931641 9.00034236907959 L 20.49900054931641 7.00034236907959 L 20.49900054931641 4.866342544555664 C 20.49900054931641 4.684325218200684 20.49901008605957 4.501819610595703 20.49803352355957 4.319314956665039 C 20.49656677246094 4.165981292724609 20.49514961242676 4.02106761932373 20.49158096313477 3.881611824035645 C 20.48464012145996 3.632522583007812 20.47126960754395 3.34293270111084 20.42461013793945 3.083442687988281 C 20.3864803314209 2.871082305908203 20.32925033569336 2.694851875305176 20.24282073974609 2.525531768798828 C 20.15970039367676 2.361692428588867 20.05048942565918 2.211432456970215 19.91934013366699 2.080001831054688 C 19.7879695892334 1.94863224029541 19.63748931884766 1.839332580566406 19.47221946716309 1.75521183013916 C 19.30524063110352 1.670242309570312 19.12849998474121 1.612872123718262 18.91645050048828 1.574742317199707 C 18.65657997131348 1.528081893920898 18.36685943603516 1.514701843261719 18.12117004394531 1.507852554321289 C 17.98850059509277 1.504462242126465 17.84860992431641 1.502382278442383 17.68243980407715 1.501321792602539 C 17.49913024902344 1.500331878662109 17.31582069396973 1.50034236907959 17.13370132446289 1.50034236907959 L 14.99970054626465 1.501341819763184 C 14.99944686889648 1.5013427734375 14.99923133850098 1.5013427734375 14.99897861480713 1.5013427734375 C 14.9804744720459 1.5013427734375 14.9620361328125 1.501007080078125 14.94369411468506 1.50034236907959 L 8.999000549316406 1.50034236907959 C 8.990580558776855 1.50034236907959 8.982150077819824 1.500271797180176 8.973730087280273 1.50013256072998 L 8.958069801330566 1.500001907348633 M 8.958074569702148 0 C 8.971636772155762 0 8.985352516174316 0.00011444091796875 8.999000549316406 0.0003414154052734375 L 16.97999954223633 0.0003414154052734375 L 14.99900054931641 0.001341819763183594 L 17.13299942016602 0.0003414154052734375 C 17.31850051879883 0.0003414154052734375 17.50450134277344 0.0003414154052734375 17.69050025939941 0.001341819763183594 C 17.84700012207031 0.00234222412109375 18.00300025939941 0.004342079162597656 18.15950012207031 0.008341789245605469 C 18.5004997253418 0.01784229278564453 18.8444995880127 0.037841796875 19.18149948120117 0.09834194183349609 C 19.52350044250488 0.1598424911499023 19.84200096130371 0.2603425979614258 20.15250015258789 0.4183425903320312 C 20.45800018310547 0.5738420486450195 20.73750114440918 0.7768421173095703 20.97999954223633 1.019342422485352 C 21.22200012207031 1.261841773986816 21.42550086975098 1.541341781616211 21.58049964904785 1.846841812133789 C 21.73900032043457 2.157341957092285 21.83950042724609 2.475842475891113 21.9010009765625 2.818342208862305 C 21.96150016784668 3.154842376708984 21.98150062561035 3.498842239379883 21.99100112915039 3.839841842651367 C 21.9950008392334 3.995841979980469 21.99650001525879 4.152341842651367 21.99800109863281 4.308842658996582 C 21.99900054931641 4.494842529296875 21.99900054931641 4.680842399597168 21.99900054931641 4.866342544555664 L 21.99900054931641 7.00034236907959 L 21.99900054931641 9.00034236907959 L 21.99900054931641 11.13434219360352 C 21.99900054931641 11.32034206390381 21.99900054931641 11.5058422088623 21.99800109863281 11.6918420791626 C 21.99650001525879 11.84834289550781 21.9950008392334 12.00484275817871 21.99100112915039 12.16134262084961 C 21.98150062561035 12.5018424987793 21.96150016784668 12.8458423614502 21.9010009765625 13.18284225463867 C 21.83950042724609 13.52484226226807 21.73900032043457 13.84334182739258 21.58049964904785 14.15434265136719 C 21.42550086975098 14.45984268188477 21.22200012207031 14.73934173583984 20.97999954223633 14.98134231567383 C 20.73750114440918 15.22434234619141 20.45800018310547 15.42684173583984 20.15250015258789 15.58234214782715 C 19.84200096130371 15.74084186553955 19.52350044250488 15.84084224700928 19.18149948120117 15.90234184265137 C 18.8444995880127 15.96284198760986 18.5004997253418 15.98334217071533 18.15950012207031 15.99234199523926 C 18.00300025939941 15.99634265899658 17.84700012207031 15.99834251403809 17.69050025939941 15.99934196472168 C 17.50450134277344 16.00034141540527 17.31850051879883 16.00034141540527 17.13299942016602 16.00034141540527 L 16.97999954223633 16.00034141540527 L 8.999000549316406 16.00034141540527 C 8.984723091125488 16.00059127807617 8.970609664916992 16.00071334838867 8.956425666809082 16.00071334838867 C 8.287115097045898 16.00071334838867 7.724226951599121 15.72605895996094 7.499000549316406 15.50034236907959 L 0.1140003204345703 8.273841857910156 C 0.03750038146972656 8.198342323303223 0 8.099342346191406 0 8.00034236907959 C 0 7.90184211730957 0.03750038146972656 7.802342414855957 0.1140003204345703 7.726841926574707 L 7.499000549316406 0.5003423690795898 C 7.724437713623047 0.2744140625 8.287939071655273 0 8.958074569702148 0 Z" stroke="none"/>
+            </g>
+            <path id="Path" d="M7.218,6.51a.5.5,0,0,1-.707.707L3.682,4.389.854,7.218A.5.5,0,0,1,.146,6.51L2.975,3.682.146.854A.5.5,0,0,1,.854.146L3.682,2.975,6.51.146a.5.5,0,0,1,.707.707L4.389,3.682Z" transform="translate(18.817 17.319)" stroke="#000" stroke-miterlimit="10" stroke-width="0.75"/>
+          </g>
+          <g id="key-6" data-name="key" transform="translate(310.462)">
+            <g transform="matrix(1, 0, 0, 1, -315.46, -637)" filter="url(#keycap-7)">
+              <path id="keycap-40" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(315.46 637)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-3" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="5.924" y="18">M</tspan></text>
+          </g>
+          <g id="key-7" data-name="key" transform="translate(269.141)">
+            <g transform="matrix(1, 0, 0, 1, -274.14, -637)" filter="url(#keycap-8)">
+              <path id="keycap-41" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(274.14 637)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-4" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.199" y="18">N</tspan></text>
+          </g>
+          <g id="key-8" data-name="key" transform="translate(227.821)">
+            <g transform="matrix(1, 0, 0, 1, -232.82, -637)" filter="url(#keycap-9)">
+              <path id="keycap-42" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(232.82 637)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-5" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">B</tspan></text>
+          </g>
+          <g id="key-9" data-name="key" transform="translate(186.5)">
+            <g transform="matrix(1, 0, 0, 1, -191.5, -637)" filter="url(#keycap-10)">
+              <path id="keycap-43" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(191.5 637)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-6" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">V</tspan></text>
+          </g>
+          <g id="key-10" data-name="key" transform="translate(145.18)">
+            <g transform="matrix(1, 0, 0, 1, -150.18, -637)" filter="url(#keycap-11)">
+              <path id="keycap-44" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(150.18 637)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-7" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.199" y="18">C</tspan></text>
+          </g>
+          <g id="key-11" data-name="key" transform="translate(103.86)">
+            <g transform="matrix(1, 0, 0, 1, -108.86, -637)" filter="url(#keycap-12)">
+              <path id="keycap-45" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(108.86 637)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-8" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">X</tspan></text>
+          </g>
+          <g id="key-12" data-name="key" transform="translate(62.539)">
+            <g transform="matrix(1, 0, 0, 1, -67.54, -637)" filter="url(#keycap-13)">
+              <path id="keycap-46" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(67.54 637)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-9" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="8.479" y="18">Z</tspan></text>
+          </g>
+          <g id="key-13" data-name="key" transform="translate(0 0)">
+            <g transform="matrix(1, 0, 0, 1, -5, -637)" filter="url(#keycap-14)">
+              <path id="keycap-47" data-name="keycap" d="M41.989,36.515a9.9,9.9,0,0,1-.126,1.459,4.984,4.984,0,0,1-.452,1.388,4.667,4.667,0,0,1-.848,1.181,4.6,4.6,0,0,1-1.168.859,4.835,4.835,0,0,1-1.371.457,9.442,9.442,0,0,1-1.443.128c-.221.007-.442.009-.663.011H6.083c-.221,0-.442,0-.663-.011a9.442,9.442,0,0,1-1.443-.128A4.835,4.835,0,0,1,2.606,41.4a4.6,4.6,0,0,1-1.168-.859A4.667,4.667,0,0,1,.59,39.362a4.984,4.984,0,0,1-.452-1.388,9.834,9.834,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.835,9.835,0,0,1,.138,4.025,4.973,4.973,0,0,1,.59,2.637a4.658,4.658,0,0,1,.848-1.182A4.6,4.6,0,0,1,2.606.6,4.836,4.836,0,0,1,3.978.14,9.569,9.569,0,0,1,5.42.011C5.641.005,5.862,0,6.083,0L6.87,0H35.131l.787,0q.331,0,.663.009A9.569,9.569,0,0,1,38.023.14,4.836,4.836,0,0,1,39.394.6a4.6,4.6,0,0,1,1.168.859,4.658,4.658,0,0,1,.848,1.182,4.973,4.973,0,0,1,.452,1.388,9.9,9.9,0,0,1,.126,1.459q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q42,36.18,41.989,36.515Z" transform="translate(5 637)" fill="#fff"/>
+            </g>
+            <path id="arrow" d="M14.493,16h-9V10h9v6Zm5.015-6.006H.481a.488.488,0,0,1-.34-.134.454.454,0,0,1-.1-.149.443.443,0,0,1,.1-.5L9.654.134a.5.5,0,0,1,.679,0l9.514,9.077a.444.444,0,0,1,.1.5A.479.479,0,0,1,19.507,9.995Z" transform="translate(11 13)"/>
+          </g>
+        </g>
+        <g id="row-3" data-name="row" transform="translate(24 64)">
+          <g id="key-14" data-name="key" transform="translate(335)">
+            <g transform="matrix(1, 0, 0, 1, -359, -584)" filter="url(#keycap-15)">
+              <path id="keycap-48" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(359 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-10" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="9.108" y="18">L</tspan></text>
+          </g>
+          <g id="key-15" data-name="key" transform="translate(298)">
+            <g transform="matrix(1, 0, 0, 1, -322, -584)" filter="url(#keycap-16)">
+              <path id="keycap-49" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(322 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-11" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">K</tspan></text>
+          </g>
+          <g id="key-16" data-name="key" transform="translate(251.25)">
+            <g transform="matrix(1, 0, 0, 1, -275.25, -584)" filter="url(#keycap-17)">
+              <path id="keycap-50" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(275.25 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-12" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="9.754" y="18">J</tspan></text>
+          </g>
+          <g id="key-17" data-name="key" transform="translate(209.375)">
+            <g transform="matrix(1, 0, 0, 1, -233.38, -584)" filter="url(#keycap-18)">
+              <path id="keycap-51" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(233.38 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-13" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.199" y="18">H</tspan></text>
+          </g>
+          <g id="key-18" data-name="key" transform="translate(167.5)">
+            <g transform="matrix(1, 0, 0, 1, -191.5, -584)" filter="url(#keycap-19)">
+              <path id="keycap-52" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(191.5 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-14" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="6.559" y="18">G</tspan></text>
+          </g>
+          <g id="key-19" data-name="key" transform="translate(125.625)">
+            <g transform="matrix(1, 0, 0, 1, -149.63, -584)" filter="url(#keycap-20)">
+              <path id="keycap-53" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(149.63 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-15" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="8.479" y="18">F</tspan></text>
+          </g>
+          <g id="key-20" data-name="key" transform="translate(83.75)">
+            <g transform="matrix(1, 0, 0, 1, -107.75, -584)" filter="url(#keycap-21)">
+              <path id="keycap-54" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(107.75 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-16" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.199" y="18">D</tspan></text>
+          </g>
+          <g id="key-21" data-name="key" transform="translate(37)">
+            <g transform="matrix(1, 0, 0, 1, -61, -584)" filter="url(#keycap-22)">
+              <path id="keycap-55" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(61 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-17" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">S</tspan></text>
+          </g>
+          <g id="key-22" data-name="key">
+            <g transform="matrix(1, 0, 0, 1, -24, -584)" filter="url(#keycap-23)">
+              <path id="keycap-56" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(24 584)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-18" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">A</tspan></text>
+          </g>
+        </g>
+        <g id="row-4" data-name="row" transform="translate(5 10)">
+          <g id="key-23" data-name="key" transform="translate(373)">
+            <g transform="matrix(1, 0, 0, 1, -378, -530)" filter="url(#keycap-24)">
+              <path id="keycap-57" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(378 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-19" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">P</tspan></text>
+          </g>
+          <g id="key-24" data-name="key" transform="translate(335)">
+            <g transform="matrix(1, 0, 0, 1, -340, -530)" filter="url(#keycap-25)">
+              <path id="keycap-58" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(340 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-20" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="12.309" y="18">I</tspan></text>
+          </g>
+          <g id="key-25" data-name="key" transform="translate(289.243)">
+            <g transform="matrix(1, 0, 0, 1, -294.24, -530)" filter="url(#keycap-26)">
+              <path id="keycap-59" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(294.24 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-21" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="6.559" y="18">O</tspan></text>
+          </g>
+          <g id="key-26" data-name="key" transform="translate(247.922)">
+            <g transform="matrix(1, 0, 0, 1, -252.92, -530)" filter="url(#keycap-27)">
+              <path id="keycap-60" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(252.92 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-22" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.199" y="18">U</tspan></text>
+          </g>
+          <g id="key-27" data-name="key" transform="translate(206.602)">
+            <g transform="matrix(1, 0, 0, 1, -211.6, -530)" filter="url(#keycap-28)">
+              <path id="keycap-61" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(211.6 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-23" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">Y</tspan></text>
+          </g>
+          <g id="key-28" data-name="key" transform="translate(165.281)">
+            <g transform="matrix(1, 0, 0, 1, -170.28, -530)" filter="url(#keycap-29)">
+              <path id="keycap-62" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(170.28 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-24" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="8.479" y="18">T</tspan></text>
+          </g>
+          <g id="key-29" data-name="key" transform="translate(123.961)">
+            <g transform="matrix(1, 0, 0, 1, -128.96, -530)" filter="url(#keycap-30)">
+              <path id="keycap-63" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(128.96 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-25" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.199" y="18">R</tspan></text>
+          </g>
+          <g id="key-30" data-name="key" transform="translate(82.641)">
+            <g transform="matrix(1, 0, 0, 1, -87.64, -530)" filter="url(#keycap-31)">
+              <path id="keycap-64" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(87.64 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-26" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="7.833" y="18">E</tspan></text>
+          </g>
+          <g id="key-31" data-name="key" transform="translate(37)">
+            <g transform="matrix(1, 0, 0, 1, -42, -530)" filter="url(#keycap-32)">
+              <path id="keycap-65" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(42 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-27" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="4.65" y="18">W</tspan></text>
+          </g>
+          <g id="key-32" data-name="key">
+            <g transform="matrix(1, 0, 0, 1, -5, -530)" filter="url(#keycap-33)">
+              <path id="keycap-66" data-name="keycap" d="M31,36.515a9.939,9.939,0,0,1-.126,1.459,5,5,0,0,1-.45,1.388,4.667,4.667,0,0,1-.845,1.181,4.588,4.588,0,0,1-1.163.859,4.8,4.8,0,0,1-1.366.457,9.369,9.369,0,0,1-1.437.128c-.22.007-.44.009-.66.011H6.059c-.22,0-.441,0-.66-.011a9.369,9.369,0,0,1-1.437-.128A4.8,4.8,0,0,1,2.6,41.4a4.588,4.588,0,0,1-1.163-.859,4.667,4.667,0,0,1-.845-1.181,5,5,0,0,1-.45-1.388,9.872,9.872,0,0,1-.126-1.459Q0,36.18,0,35.845c0-.265,0-.531,0-.8V6.951c0-.265,0-.531,0-.8q0-.335.01-.671A9.873,9.873,0,0,1,.138,4.025a4.987,4.987,0,0,1,.45-1.388,4.658,4.658,0,0,1,.845-1.182A4.588,4.588,0,0,1,2.6.6,4.8,4.8,0,0,1,3.962.14,9.5,9.5,0,0,1,5.4.011c.22-.005.44-.008.66-.009l.784,0H24.165l.784,0q.33,0,.66.009A9.5,9.5,0,0,1,27.046.14,4.8,4.8,0,0,1,28.412.6a4.588,4.588,0,0,1,1.163.859,4.658,4.658,0,0,1,.845,1.182,4.987,4.987,0,0,1,.45,1.388A9.94,9.94,0,0,1,31,5.484q.009.335.01.671c0,.265,0,.531,0,.8v28.1c0,.265,0,.531,0,.8Q31,36.18,31,36.515Z" transform="translate(5 530)" fill="#fefefe"/>
+            </g>
+            <text id="key_label-28" data-name="key label" transform="translate(0 7)" font-size="23" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="6.559" y="18">Q</tspan></text>
+          </g>
+        </g>
+        <text id="key_label-29" data-name="key label" transform="translate(157.597 181)" font-size="16" font-family="Helvetica" letter-spacing="-0.02em"><tspan x="50.292" y="12">space</tspan></text>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_121)">
+      <rect id="長方形_121-2" data-name="長方形 121" width="414" height="72" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_139)">
+      <g id="長方形_139-2" data-name="長方形 139" transform="translate(-14 72)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <g id="長方形_1116" data-name="長方形 1116" transform="translate(19 15)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+      <rect width="369" height="38" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="368" height="37" rx="7.5" fill="none"/>
+    </g>
+    <g id="Form_-_Search" data-name="Form - Search" transform="translate(14 13)" clip-path="url(#clip-path-2)">
+      <g id="長方形_1115" data-name="長方形 1115" transform="translate(325 123)" fill="#fff" stroke="#cdd6dd" stroke-width="1">
+        <rect width="379.444" height="42.729" stroke="none"/>
+        <rect x="0.5" y="0.5" width="378.444" height="41.729" fill="none"/>
+      </g>
+      <g id="Icon_-_Search" data-name="Icon - Search" transform="translate(348.444 13.364)" clip-path="url(#clip-path-3)">
+        <rect id="長方形_693" data-name="長方形 693" width="16" height="16" fill="none"/>
+        <path id="パス_208" data-name="パス 208" d="M15.9,14.5l-3.3-3.3A6.847,6.847,0,0,0,14,7,6.957,6.957,0,0,0,7,0,6.957,6.957,0,0,0,0,7a6.957,6.957,0,0,0,7,7,6.847,6.847,0,0,0,4.2-1.4l3.3,3.3ZM2,7A4.951,4.951,0,0,1,7,2a4.951,4.951,0,0,1,5,5,4.951,4.951,0,0,1-5,5A4.951,4.951,0,0,1,2,7Z" fill="#959ea7"/>
+      </g>
+      <text id="キーワードを入力" transform="translate(45 293.474)" fill="#cdd6dd" font-size="12" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">キーワードを</tspan><tspan y="0">入力</tspan></text>
+    </g>
+    <g id="シンボル_2_2" data-name="シンボル 2 – 2" transform="translate(356 546)" clip-path="url(#clip-path-4)">
+      <g transform="matrix(1, 0, 0, 1, -356, -546)" filter="url(#楕円形_4)">
+        <circle id="楕円形_4-2" data-name="楕円形 4" cx="5" cy="5" r="5" transform="translate(461 576)" opacity="0.797" fill="url(#linear-gradient)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -356, -546)" filter="url(#楕円形_5)">
+        <ellipse id="楕円形_5-2" data-name="楕円形 5" cx="5" cy="5" rx="5" ry="5" transform="translate(441 576)" opacity="0.797" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -356, -546)" filter="url(#楕円形_6)">
+        <ellipse id="楕円形_6-2" data-name="楕円形 6" cx="5" cy="5" rx="5" ry="5" transform="translate(421 576)" opacity="0.797" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -356, -546)" filter="url(#楕円形_7)">
+        <ellipse id="楕円形_7-2" data-name="楕円形 7" cx="5" cy="5" rx="5" ry="5" transform="translate(401 576)" opacity="0.797" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_1118)">
+      <g id="長方形_1118-2" data-name="長方形 1118" transform="translate(-14 115)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <text id="科目から探す_" data-name="科目から探す ：" transform="translate(19 101)" fill="#232a2f" font-size="16" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="0" y="0">科目から探す</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans" font-weight="700"> </tspan><tspan y="0">：</tspan></text>
+    <text id="文系" transform="translate(26 141.474)" fill="#4a4848" font-size="14" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">文系</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_1119)">
+      <g id="長方形_1119-2" data-name="長方形 1119" transform="translate(-14 158)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_1120)">
+      <g id="長方形_1120-2" data-name="長方形 1120" transform="translate(-12 201)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <text id="理系" transform="translate(26 186.474)" fill="#4a4848" font-size="14" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">理系</tspan></text>
+    <text id="その他" transform="translate(26 229.474)" fill="#4a4848" font-size="14" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">その</tspan><tspan y="0">他</tspan></text>
+    <g id="Component_-_Prev_-_Small" data-name="Component - Prev - Small" transform="translate(370 158) rotate(-90)" clip-path="url(#clip-path-5)">
+      <g id="シンボル_84" data-name="シンボル 84" transform="translate(22.989 14.977) rotate(90)">
+        <path id="パス_36" data-name="パス 36" d="M4.7,6.1,0,1.4,1.4,0,4.7,3.3,8,0,9.4,1.4Z" transform="translate(0)" fill="#3b4043"/>
+      </g>
+    </g>
+    <g id="Component_-_Prev_-_Small-2" data-name="Component - Prev - Small" transform="translate(370 200) rotate(-90)" clip-path="url(#clip-path-5)">
+      <g id="シンボル_84-2" data-name="シンボル 84" transform="translate(22.989 14.977) rotate(90)">
+        <path id="パス_36-2" data-name="パス 36" d="M4.7,6.1,0,1.4,1.4,0,4.7,3.3,8,0,9.4,1.4Z" transform="translate(0)" fill="#3b4043"/>
+      </g>
+    </g>
+    <g id="Component_-_Prev_-_Small-3" data-name="Component - Prev - Small" transform="translate(370 242) rotate(-90)" clip-path="url(#clip-path-5)">
+      <g id="シンボル_84-3" data-name="シンボル 84" transform="translate(22.989 14.977) rotate(90)">
+        <path id="パス_36-3" data-name="パス 36" d="M4.7,6.1,0,1.4,1.4,0,4.7,3.3,8,0,9.4,1.4Z" transform="translate(0)" fill="#3b4043"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_1121)">
+      <g id="長方形_1121-2" data-name="長方形 1121" transform="translate(-12 280)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <text id="検索履歴_" data-name="検索履歴 ：" transform="translate(19 308)" fill="#232a2f" font-size="16" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="0" y="0">検索履歴</tspan><tspan y="0" font-family="OpenSans-Bold, Open Sans" font-weight="700"> </tspan><tspan y="0">：</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_1122)">
+      <g id="長方形_1122-2" data-name="長方形 1122" transform="translate(-14 322)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_1123)">
+      <g id="長方形_1123-2" data-name="長方形 1123" transform="translate(-14 365)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#長方形_1124)">
+      <g id="長方形_1124-2" data-name="長方形 1124" transform="translate(-11 408)" fill="#fff" stroke="#dae0e6" stroke-width="1">
+        <rect width="443" height="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="442" height="43" fill="none"/>
+      </g>
+    </g>
+    <text id="経営学概論" transform="translate(26 348.474)" fill="#4a4848" font-size="14" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">経営学概論</tspan></text>
+    <text id="Global_Issue_A" data-name="Global Issue A" transform="translate(26 393.474)" fill="#4a4848" font-size="14" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">Global Issue A</tspan></text>
+    <text id="中国語入門_2019" data-name="中国語入門 2019" transform="translate(26 436.474)" fill="#4a4848" font-size="14" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">中国語入門 2019</tspan></text>
+    <rect id="長方形_1125" data-name="長方形 1125" width="1" height="22" transform="translate(33 23)" fill="#3b4043"/>
+    <text id="キーワードを入力-2" data-name="キーワードを入力" transform="translate(34 39.474)" fill="#cdd6dd" font-size="12" font-family="SourceHanSansJP-Regular, Source Han Sans JP"><tspan x="0" y="0">キーワードを</tspan><tspan y="0">入力</tspan></text>
+  </g>
+</svg>

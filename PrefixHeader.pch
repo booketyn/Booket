@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  Booket
+//
+//  Created by 西村 友佑 on 2019/09/17.
+//  Copyright © 2019年 西村 友佑. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <SVGKit/SVGKit.h>
+#import <SVGKit/SVGKImage.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
