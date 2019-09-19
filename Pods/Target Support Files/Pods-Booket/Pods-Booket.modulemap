@@ -1,0 +1,6 @@
+framework module Pods_Booket {
+  umbrella header "Pods-Booket-umbrella.h"
+
+  export *
+  module * { export * }
+}
